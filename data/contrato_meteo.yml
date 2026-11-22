@@ -1,0 +1,60 @@
+# Identifica el dato y quién responde por él.
+nombre: meteo_diaria
+version: "1.0.0"
+propietario: Equipo de Datos de Operaciones (NovaRetail)
+proveedor: Open-Meteo Historical Weather API
+
+# Define qué representa una fila y cómo identificamos cada una.
+grano: una fila por ciudad y fecha
+clave:
+  - ciudad
+  - fecha
+
+# En producción, los datos no deben llegar con más de siete días de retraso.
+frescura_max_dias: 7
+
+# Unidades que esperamos recibir de la API antes de transformarlas.
+unidades_origen:
+  temperature_2m_max: "°C"
+  temperature_2m_min: "°C"
+  precipitation_sum: "mm"
+
+# Esquema de la tabla que publicaremos después de transformar los datos.
+columnas:
+  fecha:
+    tipo: fecha
+    nulo: false
+
+  ciudad:
+    tipo: texto
+    nulo: false
+    valores:
+      - Madrid
+      - Barcelona
+      - Valencia
+      - Sevilla
+
+  tmax_c:
+    tipo: decimal
+    nulo: false
+    unidad: "°C"
+    min: -15
+    max: 50
+
+  tmin_c:
+    tipo: decimal
+    nulo: false
+    unidad: "°C"
+    min: -25
+    max: 40
+
+  lluvia_mm:
+    tipo: decimal
+    nulo: true
+    unidad: "mm"
+    min: 0
+    max: 300
+
+# Reglas de negocio para detectar datos imposibles.
+reglas:
+  - "tmin_c <= tmax_c"

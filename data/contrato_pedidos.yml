@@ -1,0 +1,94 @@
+contract:
+  name: pedidos_novaretail_lab
+  version: "1.0.0"
+  owner: Equipo de Datos de Operaciones
+  source: Laboratorio 1 - Calidad de datos y decisiones operativas
+  grain: una fila por pedido
+  primary_key:
+    - order_id
+
+fields:
+  order_id:
+    type: string
+    nullable: false
+    pattern: "^ORD-[0-9]{6}$"
+
+  store:
+    type: string
+    nullable: false
+    allowed_values:
+      - Madrid
+      - Barcelona
+      - Valencia
+      - Sevilla
+
+  channel:
+    type: string
+    nullable: false
+    allowed_values:
+      - web
+      - app
+      - marketplace
+
+  created_ts:
+    type: datetime
+    nullable: false
+
+  promised_ts:
+    type: datetime
+    nullable: false
+
+  delivered_ts:
+    type: datetime
+    nullable: true
+    note: "Puede estar vacío si el pedido no se ha entregado."
+
+  status:
+    type: string
+    nullable: false
+    allowed_values:
+      - delivered
+      - cancelled
+      - in_transit
+
+  revenue_eur:
+    type: decimal
+    nullable: false
+    minimum: 0
+    unit: EUR
+
+  variable_cost_eur:
+    type: decimal
+    nullable: false
+    minimum: 0
+    unit: EUR
+
+quality_rules:
+  - id: unique_order
+    rule: "order_id debe ser único."
+    on_failure: quarantine
+
+  - id: promised_after_created
+    rule: "promised_ts debe ser igual o posterior a created_ts."
+    on_failure: quarantine
+
+  - id: non_negative_revenue
+    rule: "revenue_eur debe ser mayor o igual a 0."
+    on_failure: quarantine
+
+  - id: cost_not_above_revenue
+    rule: "variable_cost_eur debe ser menor o igual que revenue_eur."
+    on_failure: quarantine
+
+  - id: delivery_after_creation
+    rule: "Si delivered_ts tiene valor, debe ser igual o posterior a created_ts."
+    on_failure: quarantine
+
+  - id: status_matches_delivery_date
+    rule: "delivered requiere delivered_ts; otros estados no deben tenerla."
+    on_failure: quarantine
+
+failure_policy:
+  preserve_original: true
+  rejected_records: quarantine
+  record_failure_reason: true
