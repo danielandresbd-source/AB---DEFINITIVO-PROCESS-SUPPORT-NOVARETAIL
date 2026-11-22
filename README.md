@@ -1,7 +1,7 @@
 # NovaRetail – Entregable 1: Diagnóstico del proceso y de sus riesgos
 
 Unit 17 – Business Process Support (Pearson HND, MSMK). Curso 2026-2027.
-Autores: Daniel Andrés Brito Durán y Julián Danilo Brito Durán.
+Autores: 
 ## Estructura
 
 ```
