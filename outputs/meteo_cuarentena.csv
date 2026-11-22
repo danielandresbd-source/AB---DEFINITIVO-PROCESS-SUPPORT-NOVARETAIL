@@ -1,0 +1,7 @@
+fecha,ciudad,tmax_c,tmin_c,lluvia_mm,fecha_tipo_valido,tmax_c_tipo_valido,tmin_c_tipo_valido,lluvia_mm_tipo_valido,fecha_no_nulo,ciudad_no_nulo,ciudad_dominio_valido,tmax_c_no_nulo,tmax_c_rango_valido,tmin_c_no_nulo,tmin_c_rango_valido,lluvia_mm_rango_valido,clave_unica,temperatura_minima_no_supera_maxima,calidad_ok,motivos_fallo
+2026-08-04,Madrid,61.0,21.5,0.0,True,True,True,True,True,True,True,True,False,True,True,True,True,True,False,tmax_c_rango_valido
+2026-08-10,Barcelona,22.0,30.0,0.0,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,temperatura_minima_no_supera_maxima
+2026-08-09,Valencia,32.4,27.0,-2.0,True,True,True,True,True,True,True,True,True,True,True,False,True,True,False,lluvia_mm_rango_valido
+2026-08-29,Bilbao,29.8,20.4,0.0,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,ciudad_dominio_valido
+2026-08-08,Sevilla,39.6,24.1,0.0,True,True,True,True,True,True,True,True,True,True,True,True,False,True,False,clave_unica
+2026-08-08,Sevilla,39.6,24.1,0.0,True,True,True,True,True,True,True,True,True,True,True,True,False,True,False,clave_unica

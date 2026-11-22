@@ -1,0 +1,161 @@
+order_id,store,channel,created_ts,promised_ts,delivered_ts,status,revenue_eur,variable_cost_eur,campos_obligatorios_presentes,id_valido,clave_unica,tienda_valida,canal_valido,estado_valido,ingreso_valido,coste_valido,promesa_valida,fecha_entrega_valida,estado_coherente,calidad_ok,motivos_fallo
+ORD-001392,Madrid,app,2026-08-17 09:58:00,2026-08-20 02:58:00,2026-08-17 07:58:00.000000000,delivered,66.39,40.68,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-000405,Sevilla,web,2026-08-16 11:29:00,2026-08-18 11:29:00,2026-08-19 04:13:08.916567723,delivered,61.3,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000858,Valencia,app,2026-08-02 18:34:00,2026-08-04 10:34:00,2026-08-04 14:04:30.785375764,delivered,113.63,153.4005,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-001426,Madrid,web,2026-08-26 06:05:00,2026-08-27 19:05:00,2026-08-28 02:13:48.980187304,delivered,95.63,129.1005,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-000472,Valencia,web,2026-08-25 22:26:00,2026-08-29 17:26:00,,in_transit,60.81,47.75,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000478,Madrid,web,2026-08-01 13:16:00,2026-08-03 13:16:00,2026-08-03 05:16:00.000000000,cancelled,123.67,67.43,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000922,Valencia,web,2026-08-18 17:52:00,2026-08-22 00:52:00,2026-08-21 01:52:48.893987718,delivered,51.77,69.88950000000001,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-000086,Valencia,app,2026-08-22 16:59:00,2026-08-24 15:59:00,,in_transit,121.85,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000893,Valencia,app,2026-08-17 04:46:00,2026-08-20 01:46:00,2026-08-19 05:08:18.807767986,delivered,81.5,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000926,Valencia,app,2026-08-30 07:50:00,2026-09-01 23:50:00,2026-09-01 04:51:12.684461674,delivered,71.1,50.63,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001218,Barcelona,marketplace,2026-08-23 16:54:00,2026-08-26 18:54:00,2026-08-23 14:54:00.000000000,delivered,61.69,36.96,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-001124,Madrid,app,2026-08-08 13:17:00,2026-08-12 08:17:00,,in_transit,46.38,36.5,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000720,Barcelona,web,2026-08-19 14:05:00,2026-08-21 04:05:00,2026-08-21 06:05:00.000000000,cancelled,116.29,58.1,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000062,Valencia,web,2026-08-24 02:06:00,2026-08-25 20:06:00,2026-08-25 21:25:16.620729200,delivered,-47.4,24.89,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-000094,Madrid,app,2026-08-13 00:17:00,2026-08-14 01:17:00,2026-08-15 22:28:10.082134190,delivered,207.71,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000644,Valencia,web,2026-08-15 21:47:00,2026-08-18 17:47:00,2026-08-18 11:15:19.627923698,delivered,37.79,19.95,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000698,Barcelona,marketplace,2026-08-19 07:00:00,2026-08-22 21:00:00,2026-08-22 04:59:28.330804755,delivered,104.02,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000158,Madrid,app,2026-08-18 06:25:00,2026-08-21 21:25:00,2026-08-18 04:25:00.000000000,delivered,118.37,69.71,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-000309,Madrid,app,2026-08-10 18:52:00,2026-08-12 00:52:00,2026-08-12 06:06:26.705320922,delivered,34.16,17.89,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000805,Sevilla,app,2026-08-23 21:14:00,2026-08-27 15:14:00,2026-08-27 13:12:40.398666999,delivered,161.75,113.37,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001133,Sevilla,web,2026-08-25 15:03:00,2026-08-29 09:03:00,,cancelled,27.58,15.58,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001124,Madrid,app,2026-08-08 13:17:00,2026-08-12 08:17:00,,in_transit,46.38,36.5,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001398,Valencia,app,2026-08-21 06:09:00,2026-08-24 03:09:00,2026-08-25 04:33:42.097450456,delivered,76.5,103.275,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-000182,Barcelona,marketplace,2026-08-05 17:19:00,2026-08-06 17:19:00,2026-08-05 15:19:00.000000000,delivered,23.71,14.17,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-000644,Valencia,web,2026-08-15 21:47:00,2026-08-18 17:47:00,2026-08-18 11:15:19.627923698,delivered,37.79,19.95,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001016,Sevilla,app,2026-08-26 23:00:00,2026-08-30 10:00:00,,cancelled,176.09,237.72150000000002,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-000939,Barcelona,app,2026-08-15 07:28:00,2026-08-18 20:28:00,2026-08-15 05:28:00.000000000,delivered,33.59,16.2,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-000748,Valencia,app,2026-08-10 17:56:00,2026-08-12 05:56:00,2026-08-12 10:00:06.267179931,delivered,104.13,79.16,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000354,Sevilla,app,2026-08-14 11:42:00,2026-08-15 22:42:00,2026-08-16 03:42:00.000000000,cancelled,87.37,51.69,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000301,Sevilla,web,2026-08-12 06:34:00,2026-08-13 10:34:00,2026-08-15 07:42:05.086023464,delivered,-136.66,93.67,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-001264,Madrid,web,2026-08-26 12:00:00,2026-08-27 14:00:00,2026-08-29 00:13:56.314413530,delivered,42.76,21.72,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001130,Sevilla,web,2026-08-21 02:58:00,2026-08-22 04:58:00,2026-08-22 18:37:15.694103300,delivered,68.56,92.55600000000001,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-000224,Madrid,app,2026-08-07 06:33:00,2026-08-10 11:33:00,2026-08-11 23:19:43.659676729,delivered,222.76,300.726,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-001200,Sevilla,marketplace,2026-08-20 05:32:00,2026-08-21 13:32:00,,cancelled,52.59,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000427,Barcelona,marketplace,2026-08-27 19:02:00,2026-08-29 21:02:00,2026-08-30 04:40:36.482298424,delivered,49.78,33.03,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001381,Sevilla,app,2026-08-31 09:29:00,2026-09-01 11:29:00,2026-09-02 20:53:39.026904177,delivered,-157.66,116.08,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-000254,Barcelona,web,2026-08-11 05:25:00,2026-08-13 09:25:00,2026-08-12 13:49:56.930096516,delivered,166.06,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000557,Barcelona,web,2026-08-23 19:35:00,2026-08-27 00:35:00,,in_transit,46.38,62.61300000000001,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-000664,Sevilla,web,2026-08-07 06:35:00,2026-08-11 00:35:00,2026-08-09 03:10:37.685078703,delivered,101.1,136.485,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-001064,Valencia,web,2026-08-22 20:49:00,2026-08-25 01:49:00,2026-08-24 12:49:00.000000000,cancelled,110.24,68.53,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000373,Madrid,app,2026-08-13 17:12:00,2026-08-16 13:12:00,2026-08-15 09:12:00.000000000,cancelled,17.31,13.14,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000639,Barcelona,app,2026-08-25 13:48:00,2026-08-28 04:48:00,2026-08-28 13:04:08.379664082,delivered,109.03,84.71,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000290,Barcelona,web,2026-08-15 16:16:00,2026-08-18 23:16:00,2026-08-16 09:42:48.810356710,delivered,63.48,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000250,Sevilla,marketplace,2026-08-02 06:57:00,2026-08-05 10:57:00,2026-08-03 21:17:05.310038310,delivered,60.27,81.3645,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-000325,Madrid,app,2026-08-31 05:30:00,2026-09-03 13:30:00,2026-09-03 23:40:28.695450507,delivered,54.87,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-001150,Valencia,marketplace,2026-08-27 09:53:00,2026-08-29 09:53:00,2026-08-27 07:53:00.000000000,delivered,56.39,40.86,True,True,False,True,True,True,True,True,True,False,True,False,"clave_unica, fecha_entrega_valida"
+ORD-000472,Valencia,web,2026-08-25 22:26:00,2026-08-29 17:26:00,,in_transit,60.81,47.75,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000832,Barcelona,app,2026-08-08 11:10:00,2026-08-12 01:10:00,2026-08-10 15:44:08.382720669,delivered,92.48,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000624,Sevilla,app,2026-08-13 22:09:00,2026-08-16 18:09:00,2026-08-15 23:29:45.509036020,delivered,-130.49,90.87,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-001170,Sevilla,marketplace,2026-08-29 10:29:00,2026-09-02 08:29:00,2026-08-30 23:21:52.591724641,delivered,55.78,75.30300000000001,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-000279,Valencia,web,2026-08-03 00:19:00,2026-08-04 22:19:00,2026-08-05 04:57:47.958175312,delivered,138.94,67.96,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001178,Madrid,web,2026-08-06 22:33:00,2026-08-10 14:33:00,2026-08-09 16:50:34.665951231,delivered,76.04,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-001454,Valencia,web,2026-08-08 15:04:00,2026-08-10 22:04:00,,in_transit,34.05,45.9675,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-001022,Madrid,marketplace,2026-08-03 05:36:00,2026-08-04 08:36:00,2026-08-05 12:10:16.199383933,delivered,58.78,34.47,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000417,Valencia,web,2026-08-31 01:09:00,2026-09-01 21:09:00,2026-09-01 10:58:29.723440306,delivered,183.28,123.52,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001256,Barcelona,web,2026-08-03 15:06:00,2026-08-07 06:06:00,2026-08-05 07:06:00.000000000,cancelled,73.29,40.93,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000281,Sevilla,app,2026-08-09 13:13:00,2026-08-10 16:13:00,2026-08-10 20:39:45.807800020,delivered,20.57,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-001133,Sevilla,web,2026-08-25 15:03:00,2026-08-29 09:03:00,,cancelled,27.58,15.58,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001159,Sevilla,marketplace,2026-08-12 21:51:00,2026-08-15 22:51:00,2026-08-15 05:12:19.539418204,delivered,105.35,53.89,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000431,Sevilla,marketplace,2026-08-03 14:47:00,2026-08-04 20:47:00,2026-08-05 00:21:36.728841507,delivered,24.37,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000985,Madrid,app,2026-08-19 04:50:00,2026-08-21 05:50:00,2026-08-20 20:30:17.346792277,delivered,215.35,132.6,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001084,Sevilla,app,2026-08-18 05:38:00,2026-08-21 05:38:00,2026-08-21 20:49:30.594167149,delivered,68.37,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000498,Valencia,web,2026-08-12 14:23:00,2026-08-16 14:23:00,2026-08-14 06:23:00.000000000,cancelled,52.78,28.59,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000699,Valencia,web,2026-08-02 13:18:00,2026-08-05 06:18:00,2026-08-05 21:29:35.573766338,delivered,115.76,69.67,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000706,Madrid,app,2026-08-18 12:19:00,2026-08-21 22:19:00,2026-08-20 04:19:00.000000000,cancelled,58.17,34.61,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000763,Valencia,web,2026-08-30 10:06:00,2026-08-31 12:06:00,2026-08-30 08:06:00.000000000,delivered,109.28,85.7,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-000548,Sevilla,marketplace,2026-08-19 07:48:00,2026-08-21 21:48:00,2026-08-21 02:49:24.146043013,delivered,24.04,15.36,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000979,Madrid,web,2026-08-11 21:02:00,2026-08-13 02:02:00,2026-08-11 19:02:00.000000000,delivered,80.59,47.72,True,True,False,True,True,True,True,True,True,False,True,False,"clave_unica, fecha_entrega_valida"
+ORD-000393,Valencia,app,2026-08-12 09:12:00,2026-08-16 01:12:00,2026-08-14 21:26:45.355293096,delivered,64.43,37.7,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000219,Valencia,marketplace,2026-08-14 20:35:00,2026-08-17 02:35:00,2026-08-16 06:35:07.382594512,delivered,-53.0,34.94,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-000746,Sevilla,web,2026-08-12 06:57:00,2026-08-15 18:57:00,2026-08-13 21:50:14.540364063,delivered,112.46,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000690,Valencia,web,2026-08-25 06:16:00,2026-08-28 00:16:00,,in_transit,-234.24,145.77,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-000493,Valencia,app,2026-08-24 08:29:00,2026-08-26 04:29:00,2026-08-26 22:44:20.392270804,delivered,-29.03,21.66,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-000236,Sevilla,web,2026-08-23 07:16:00,2026-08-26 17:16:00,2026-08-24 17:04:37.449219578,delivered,-34.76,24.67,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-000044,Sevilla,app,2026-08-11 23:46:00,2026-08-14 16:46:00,2026-08-13 12:30:46.726093917,delivered,20.04,10.02,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000639,Barcelona,app,2026-08-25 13:48:00,2026-08-28 04:48:00,2026-08-28 13:04:08.379664082,delivered,109.03,84.71,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000985,Madrid,app,2026-08-19 04:50:00,2026-08-21 05:50:00,2026-08-20 20:30:17.346792277,delivered,215.35,132.6,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001425,Barcelona,web,2026-08-08 22:12:00,2026-08-11 04:12:00,2026-08-10 20:13:21.212725396,delivered,57.05,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000263,Sevilla,web,2026-08-10 07:11:00,2026-08-11 07:11:00,2026-08-13 12:28:17.383038431,delivered,157.59,212.74650000000003,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-001391,Sevilla,app,2026-08-10 11:40:00,2026-08-11 21:40:00,2026-08-10 09:40:00.000000000,delivered,148.03,87.82,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-001215,Valencia,web,2026-08-03 07:11:00,2026-08-05 19:11:00,,cancelled,61.81,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-001253,Valencia,web,2026-08-03 07:04:00,2026-08-06 01:04:00,,cancelled,60.46,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-001258,Barcelona,web,2026-08-18 05:15:00,2026-08-21 03:15:00,2026-08-21 09:19:13.904873727,delivered,-45.13,24.66,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-001403,Barcelona,web,2026-08-10 06:58:00,2026-08-13 21:58:00,2026-08-11 18:09:25.205352057,delivered,80.5,108.67500000000001,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-000393,Valencia,app,2026-08-12 09:12:00,2026-08-16 01:12:00,2026-08-14 21:26:45.355293096,delivered,64.43,37.7,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001406,Sevilla,app,2026-08-05 19:38:00,2026-08-09 10:38:00,2026-08-08 02:16:19.934063217,delivered,80.01,55.67,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000489,Barcelona,marketplace,2026-08-24 17:16:00,2026-08-26 08:16:00,,in_transit,96.51,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-001096,Sevilla,app,2026-08-03 11:33:00,2026-08-04 23:33:00,,in_transit,-106.97,56.83,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-001474,Sevilla,app,2026-08-07 10:01:00,2026-08-11 09:01:00,2026-08-07 08:01:00.000000000,delivered,57.58,42.25,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-000776,Barcelona,marketplace,2026-08-30 11:41:00,2026-09-01 18:41:00,2026-09-01 14:33:30.463027950,delivered,-96.51,58.57,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-000718,Madrid,app,2026-08-16 06:09:00,2026-08-20 06:09:00,,in_transit,108.42,53.27,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000608,Barcelona,marketplace,2026-08-16 22:34:00,2026-08-18 08:34:00,,in_transit,15.54,20.979,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-000836,Sevilla,app,2026-08-25 01:54:00,2026-08-27 16:54:00,2026-08-28 04:18:21.625563232,delivered,85.13,65.6,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000829,Barcelona,app,2026-08-27 18:24:00,2026-08-28 19:24:00,2026-08-30 17:06:23.308539393,delivered,213.6,104.19,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000814,Madrid,web,2026-08-09 19:13:00,2026-08-10 22:13:00,2026-08-09 17:13:00.000000000,delivered,45.93,35.48,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-000408,Sevilla,app,2026-08-05 11:03:00,2026-08-06 22:03:00,2026-08-07 03:03:00.000000000,cancelled,64.28,50.1,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000417,Valencia,web,2026-08-31 01:09:00,2026-09-01 21:09:00,2026-09-01 10:58:29.723440306,delivered,183.28,123.52,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001477,Sevilla,marketplace,2026-08-16 04:56:00,2026-08-18 16:56:00,2026-08-16 21:35:08.313086163,delivered,97.89,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000979,Madrid,web,2026-08-11 21:02:00,2026-08-13 02:02:00,2026-08-11 19:02:00.000000000,delivered,80.59,47.72,True,True,False,True,True,True,True,True,True,False,True,False,"clave_unica, fecha_entrega_valida"
+ORD-001125,Sevilla,web,2026-08-27 01:23:00,2026-08-30 20:23:00,2026-08-28 17:23:00.000000000,cancelled,57.12,33.78,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000719,Madrid,app,2026-08-08 07:22:00,2026-08-10 03:22:00,,in_transit,-42.42,27.52,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-000748,Valencia,app,2026-08-10 17:56:00,2026-08-12 05:56:00,2026-08-12 10:00:06.267179931,delivered,104.13,79.16,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001143,Madrid,app,2026-08-29 20:57:00,2026-08-31 10:57:00,2026-08-29 18:57:00.000000000,delivered,28.99,17.52,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-000161,Valencia,web,2026-08-31 21:06:00,2026-09-03 18:06:00,2026-09-02 09:50:55.930357143,delivered,-66.4,37.66,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-000064,Madrid,app,2026-08-30 23:49:00,2026-09-03 18:49:00,,in_transit,92.35,66.42,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000437,Madrid,web,2026-08-18 14:03:00,2026-08-20 17:03:00,2026-08-20 06:03:00.000000000,cancelled,91.26,67.49,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000189,Barcelona,app,2026-08-08 09:38:00,2026-08-12 05:38:00,2026-08-10 19:42:52.653881510,delivered,56.83,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000926,Valencia,app,2026-08-30 07:50:00,2026-09-01 23:50:00,2026-09-01 04:51:12.684461674,delivered,71.1,50.63,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000699,Valencia,web,2026-08-02 13:18:00,2026-08-05 06:18:00,2026-08-05 21:29:35.573766338,delivered,115.76,69.67,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000072,Barcelona,web,2026-08-06 20:58:00,2026-08-08 22:58:00,2026-08-08 21:07:43.479421509,delivered,70.07,43.8,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000955,Madrid,web,2026-08-25 08:28:00,2026-08-28 20:28:00,2026-08-25 06:28:00.000000000,delivered,88.21,62.49,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-000180,Valencia,app,2026-08-16 12:46:00,2026-08-19 01:46:00,2026-08-20 06:19:05.807993634,delivered,146.02,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-001150,Valencia,marketplace,2026-08-27 09:53:00,2026-08-29 09:53:00,2026-08-27 07:53:00.000000000,delivered,56.39,40.86,True,True,False,True,True,True,True,True,True,False,True,False,"clave_unica, fecha_entrega_valida"
+ORD-000973,Sevilla,app,2026-08-15 19:05:00,2026-08-18 01:05:00,2026-08-20 06:54:08.374425697,delivered,91.71,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000044,Sevilla,app,2026-08-11 23:46:00,2026-08-14 16:46:00,2026-08-13 12:30:46.726093917,delivered,20.04,10.02,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000805,Sevilla,app,2026-08-23 21:14:00,2026-08-27 15:14:00,2026-08-27 13:12:40.398666999,delivered,161.75,113.37,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001208,Sevilla,web,2026-08-23 08:11:00,2026-08-25 06:11:00,2026-08-25 10:58:07.768697712,delivered,125.15,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-001179,Barcelona,web,2026-08-09 00:49:00,2026-08-11 18:49:00,2026-08-11 19:06:14.402383317,delivered,-32.99,17.44,True,True,True,True,True,True,False,False,True,True,True,False,"ingreso_valido, coste_valido"
+ORD-000064,Madrid,app,2026-08-30 23:49:00,2026-09-03 18:49:00,,in_transit,92.35,66.42,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000192,Barcelona,web,2026-08-20 12:55:00,2026-08-24 04:55:00,,in_transit,55.47,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-001079,Sevilla,app,2026-08-13 22:48:00,2026-08-17 20:48:00,2026-08-13 20:48:00.000000000,delivered,55.61,37.18,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-001338,Valencia,web,2026-08-10 04:29:00,2026-08-13 21:29:00,2026-08-11 06:30:57.066534937,delivered,72.76,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000309,Madrid,app,2026-08-10 18:52:00,2026-08-12 00:52:00,2026-08-12 06:06:26.705320922,delivered,34.16,17.89,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000222,Madrid,web,2026-08-15 03:05:00,2026-08-18 09:05:00,2026-08-16 19:05:00.000000000,cancelled,41.52,32.64,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-001072,Valencia,web,2026-08-07 11:32:00,2026-08-11 07:32:00,2026-08-11 00:59:19.166235656,delivered,74.33,38.61,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000098,Barcelona,web,2026-08-22 03:46:00,2026-08-25 07:46:00,2026-08-24 07:34:13.101224760,delivered,105.07,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000718,Madrid,app,2026-08-16 06:09:00,2026-08-20 06:09:00,,in_transit,108.42,53.27,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000627,Sevilla,marketplace,2026-08-11 11:38:00,2026-08-13 09:38:00,2026-08-12 23:27:13.620395150,delivered,52.05,70.2675,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-000450,Madrid,app,2026-08-09 21:06:00,2026-08-11 20:06:00,,in_transit,16.59,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-001317,Barcelona,app,2026-08-22 23:58:00,2026-08-26 00:58:00,2026-08-24 15:58:00.000000000,cancelled,113.03,80.44,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000279,Valencia,web,2026-08-03 00:19:00,2026-08-04 22:19:00,2026-08-05 04:57:47.958175312,delivered,138.94,67.96,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001269,Barcelona,app,2026-08-30 13:08:00,2026-09-01 23:08:00,2026-09-01 05:08:00.000000000,cancelled,183.31,137.7,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000072,Barcelona,web,2026-08-06 20:58:00,2026-08-08 22:58:00,2026-08-08 21:07:43.479421509,delivered,70.07,43.8,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000203,Madrid,web,2026-08-16 08:19:00,2026-08-19 09:19:00,2026-08-17 13:34:05.595075910,delivered,55.82,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000874,Madrid,app,2026-08-04 20:56:00,2026-08-07 01:56:00,2026-08-06 12:56:00.000000000,cancelled,109.67,79.62,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-001159,Sevilla,marketplace,2026-08-12 21:51:00,2026-08-15 22:51:00,2026-08-15 05:12:19.539418204,delivered,105.35,53.89,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000932,Madrid,marketplace,2026-08-22 16:37:00,2026-08-25 06:37:00,2026-08-23 08:52:11.943877237,delivered,103.5,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-001113,Valencia,web,2026-08-06 23:15:00,2026-08-08 12:15:00,2026-08-06 21:15:00.000000000,delivered,51.63,25.21,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-001475,Barcelona,web,2026-08-31 06:59:00,2026-09-01 07:59:00,2026-09-02 18:22:06.281676852,delivered,146.6,197.91,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido
+ORD-001022,Madrid,marketplace,2026-08-03 05:36:00,2026-08-04 08:36:00,2026-08-05 12:10:16.199383933,delivered,58.78,34.47,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000087,Barcelona,app,2026-08-04 00:20:00,2026-08-07 12:20:00,2026-08-05 16:20:00.000000000,cancelled,90.81,53.97,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000570,Sevilla,web,2026-08-18 16:59:00,2026-08-20 22:59:00,2026-08-18 14:59:00.000000000,delivered,86.5,57.4,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-001264,Madrid,web,2026-08-26 12:00:00,2026-08-27 14:00:00,2026-08-29 00:13:56.314413530,delivered,42.76,21.72,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000836,Sevilla,app,2026-08-25 01:54:00,2026-08-27 16:54:00,2026-08-28 04:18:21.625563232,delivered,85.13,65.6,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000759,Sevilla,web,2026-08-04 23:10:00,2026-08-05 23:10:00,2026-08-06 15:10:00.000000000,cancelled,23.13,17.56,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000637,Barcelona,app,2026-08-08 07:10:00,2026-08-10 22:10:00,2026-08-09 23:10:00.000000000,cancelled,191.88,114.28,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000643,Barcelona,marketplace,2026-08-27 11:31:00,2026-08-31 09:31:00,2026-08-27 23:45:43.506934681,delivered,105.53,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000798,Valencia,app,2026-08-15 05:09:00,2026-08-17 16:09:00,2026-08-16 21:09:00.000000000,cancelled,134.68,85.68,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-001072,Valencia,web,2026-08-07 11:32:00,2026-08-11 07:32:00,2026-08-11 00:59:19.166235656,delivered,74.33,38.61,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000680,Valencia,web,2026-08-30 00:20:00,2026-09-01 09:20:00,,in_transit,80.13,,False,True,True,True,True,True,True,False,True,True,True,False,"campos_obligatorios_presentes, coste_valido"
+ORD-000548,Sevilla,marketplace,2026-08-19 07:48:00,2026-08-21 21:48:00,2026-08-21 02:49:24.146043013,delivered,24.04,15.36,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000427,Barcelona,marketplace,2026-08-27 19:02:00,2026-08-29 21:02:00,2026-08-30 04:40:36.482298424,delivered,49.78,33.03,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-001407,Valencia,web,2026-08-11 18:10:00,2026-08-14 15:10:00,2026-08-11 16:10:00.000000000,delivered,102.15,50.05,True,True,True,True,True,True,True,True,True,False,True,False,fecha_entrega_valida
+ORD-000713,Barcelona,web,2026-08-23 13:26:00,2026-08-26 09:26:00,,cancelled,74.15,48.17,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000989,Sevilla,app,2026-08-08 15:14:00,2026-08-11 05:14:00,2026-08-10 07:14:00.000000000,cancelled,74.21,36.62,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-000713,Barcelona,web,2026-08-23 13:26:00,2026-08-26 09:26:00,,cancelled,74.15,48.17,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000492,Valencia,web,2026-08-27 21:35:00,2026-08-30 04:35:00,2026-08-29 13:35:00.000000000,cancelled,61.29,30.27,True,True,True,True,True,True,True,True,True,True,False,False,estado_coherente
+ORD-001406,Sevilla,app,2026-08-05 19:38:00,2026-08-09 10:38:00,2026-08-08 02:16:19.934063217,delivered,80.01,55.67,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000829,Barcelona,app,2026-08-27 18:24:00,2026-08-28 19:24:00,2026-08-30 17:06:23.308539393,delivered,213.6,104.19,True,True,False,True,True,True,True,True,True,True,True,False,clave_unica
+ORD-000452,Madrid,marketplace,2026-08-29 16:03:00,2026-09-01 12:03:00,2026-08-31 20:26:00.490002039,delivered,48.55,65.5425,True,True,True,True,True,True,True,False,True,True,True,False,coste_valido

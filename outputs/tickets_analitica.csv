@@ -1,0 +1,901 @@
+ticket_id,created_ts,channel,order_id,text_masked,true_topic
+TKT-00753,2026-08-01 00:08:00,web_form,ORD-984014,"Por favor, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Gracias. Mi correo es [EMAIL].",return_refund
+TKT-00320,2026-08-01 00:26:00,chat,,"Hola, La talla no me sirve y quiero tramitar la devolución Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].",return_refund
+TKT-00381,2026-08-01 00:28:00,web_form,ORD-924212,El paquete [ORDER_ID] lleva varios días sin moverse Espero respuesta hoy. Mi correo es [EMAIL].,delivery_delay
+TKT-00017,2026-08-01 01:56:00,chat,,Recibí el color equivocado y además está dañado Esto es frustrante.,defective_product
+TKT-00664,2026-08-01 02:11:00,email,ORD-223708,El paquete [ORDER_ID] lleva varios días sin moverse Gracias.,delivery_delay
+TKT-00623,2026-08-01 02:24:00,web_form,,La pantalla tiene una grieta al abrir la caja ¿Podéis ayudarme?,defective_product
+TKT-00432,2026-08-01 03:22:00,email,ORD-424065,Necesito ayuda: Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL].,payment_charge
+TKT-00589,2026-08-01 06:36:00,web_form,ORD-741960,Necesito ayuda: Necesito cancelar y recuperar el dinero de [ORDER_ID] Gracias. Llámame al [PHONE].,return_refund
+TKT-00411,2026-08-01 06:43:00,web_form,,URGENTE: No recibo el código de verificación para entrar Espero respuesta hoy. Llámame al [PHONE].,account_access
+TKT-00163,2026-08-01 07:08:00,web_form,ORD-451129,Necesito ayuda: El producto de [ORDER_ID] llegó roto y no funciona Espero respuesta hoy.,defective_product
+TKT-00659,2026-08-01 07:23:00,email,,URGENTE: Falta una pieza y no puedo usar el producto,defective_product
+TKT-00645,2026-08-01 08:05:00,web_form,,Necesito ayuda: Al acceder veo los datos de otro perfil Espero respuesta hoy. Mi correo es [EMAIL].,account_access
+TKT-00799,2026-08-01 08:33:00,web_form,ORD-738557,URGENTE: Necesito cancelar y recuperar el dinero de [ORDER_ID] Esto es frustrante.,return_refund
+TKT-00427,2026-08-01 10:48:00,chat,,"Hola, Hice una devolución pero el reembolso no ha llegado ¿Podéis ayudarme? Mi correo es [EMAIL].",return_refund
+TKT-00818,2026-08-01 11:27:00,email,,Veo un cargo que no reconozco en mi cuenta ¿Podéis ayudarme? Mi correo es [EMAIL].,payment_charge
+TKT-00252,2026-08-01 11:29:00,chat,,"Hola, La talla no me sirve y quiero tramitar la devolución Mi correo es [EMAIL].",return_refund
+TKT-00697,2026-08-01 12:31:00,chat,,"Buenos días, No recibo el código de verificación para entrar ¿Podéis ayudarme? Llámame al [PHONE].",account_access
+TKT-00278,2026-08-01 13:12:00,chat,,"Por favor, Al acceder veo los datos de otro perfil Espero respuesta hoy.",account_access
+TKT-00647,2026-08-01 13:15:00,email,,"Por favor, Veo un cargo que no reconozco en mi cuenta Espero respuesta hoy.",payment_charge
+TKT-00691,2026-08-01 13:47:00,web_form,,"Por favor, No puedo iniciar sesión y el enlace de contraseña ha caducado",account_access
+TKT-00831,2026-08-01 14:17:00,web_form,ORD-320231,"Buenos días, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Esto es frustrante. Mi correo es [EMAIL].",return_refund
+TKT-00257,2026-08-01 14:19:00,chat,,"Por favor, Hice una devolución pero el reembolso no ha llegado Mi correo es [EMAIL]. Llámame al [PHONE].",return_refund
+TKT-00365,2026-08-01 14:32:00,email,,Necesito ayuda: Mi cuenta está bloqueada desde esta mañana Esto es frustrante.,account_access
+TKT-00384,2026-08-01 15:58:00,web_form,,"Hola, No puedo iniciar sesión y el enlace de contraseña ha caducado Es la tercera vez que contacto y presentaré una reclamación.",account_access
+TKT-00215,2026-08-01 16:08:00,email,ORD-304787,"Necesito ayuda: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Gracias. Mi correo es [EMAIL].",delivery_delay
+TKT-00694,2026-08-01 18:04:00,web_form,,"Buenos días, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? ¿Podéis ayudarme? Mi correo es [EMAIL].",return_refund
+TKT-00611,2026-08-01 19:01:00,chat,ORD-534428,"Buenos días, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Mi correo es [EMAIL].",delivery_delay
+TKT-00377,2026-08-01 19:17:00,email,ORD-129321,URGENTE: El paquete [ORDER_ID] lleva varios días sin moverse Esto es frustrante.,delivery_delay
+TKT-00226,2026-08-01 19:41:00,email,,"Por favor, Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme? Mi correo es [EMAIL].",account_access
+TKT-00495,2026-08-01 20:05:00,email,ORD-937818,"Por favor, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias.",delivery_delay
+TKT-00859,2026-08-01 20:10:00,chat,,"URGENTE: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Espero respuesta hoy.",return_refund
+TKT-00783,2026-08-01 20:24:00,chat,,"Hola, Hice una devolución pero el reembolso no ha llegado Gracias. Llámame al [PHONE].",return_refund
+TKT-00069,2026-08-01 21:05:00,email,,"Buenos días, La entrega está retrasada y el seguimiento no cambia Mi correo es [EMAIL].",delivery_delay
+TKT-00232,2026-08-01 21:20:00,web_form,ORD-624938,El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme?,delivery_delay
+TKT-00538,2026-08-01 22:05:00,chat,,"Necesito ayuda: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Llámame al [PHONE].",return_refund
+TKT-00186,2026-08-01 22:11:00,web_form,,"Buenos días, El pago falla aunque mi tarjeta funciona Espero respuesta hoy. Mi correo es [EMAIL].",payment_charge
+TKT-00612,2026-08-01 22:20:00,web_form,,"Buenos días, Falta una pieza y no puedo usar el producto Espero respuesta hoy.",defective_product
+TKT-00726,2026-08-01 23:14:00,email,,Necesito ayuda: Cambió mi correo y ahora no puedo recuperar la cuenta Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].,account_access
+TKT-00682,2026-08-01 23:19:00,email,ORD-438310,"Por favor, El producto de [ORDER_ID] llegó roto y no funciona Llámame al [PHONE].",defective_product
+TKT-00156,2026-08-01 23:23:00,chat,,Necesito ayuda: Mi cuenta está bloqueada desde esta mañana Mi correo es [EMAIL].,account_access
+TKT-00838,2026-08-01 23:29:00,email,,No puedo iniciar sesión y el enlace de contraseña ha caducado Gracias. Mi correo es [EMAIL].,account_access
+TKT-00286,2026-08-02 00:10:00,web_form,,URGENTE: La entrega está retrasada y el seguimiento no cambia,delivery_delay
+TKT-00842,2026-08-02 00:56:00,chat,,"Buenos días, Recibí el color equivocado y además está dañado Esto es frustrante. Mi correo es [EMAIL].",defective_product
+TKT-00528,2026-08-02 01:30:00,email,,"Hola, Veo un cargo que no reconozco en mi cuenta ¿Podéis ayudarme?",payment_charge
+TKT-00661,2026-08-02 01:30:00,chat,ORD-372202,URGENTE: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece,delivery_delay
+TKT-00304,2026-08-02 01:37:00,email,,Falta una pieza y no puedo usar el producto,defective_product
+TKT-00053,2026-08-02 02:56:00,chat,ORD-812204,Necesito ayuda: El producto de [ORDER_ID] llegó roto y no funciona Mi correo es [EMAIL].,defective_product
+TKT-00231,2026-08-02 04:00:00,web_form,,"Buenos días, La pantalla tiene una grieta al abrir la caja Gracias. Es la tercera vez que contacto y presentaré una reclamación.",defective_product
+TKT-00676,2026-08-02 04:46:00,email,ORD-767576,"Buenos días, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Espero respuesta hoy.",delivery_delay
+TKT-00568,2026-08-02 06:18:00,email,ORD-349976,"Por favor, El producto de [ORDER_ID] llegó roto y no funciona Esto es frustrante.",defective_product
+TKT-00617,2026-08-02 08:15:00,web_form,,URGENTE: El descuento no se aplicó y el importe cobrado es incorrecto Espero respuesta hoy. Mi correo es [EMAIL].,payment_charge
+TKT-00481,2026-08-02 11:32:00,email,ORD-661232,"Por favor, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Esto es frustrante.",return_refund
+TKT-00171,2026-08-02 12:23:00,chat,ORD-558593,El producto de [ORDER_ID] llegó roto y no funciona ¿Podéis ayudarme?,defective_product
+TKT-00583,2026-08-02 12:33:00,web_form,ORD-555223,"Buenos días, El producto de [ORDER_ID] llegó roto y no funciona Esto es frustrante. Mi correo es [EMAIL].",defective_product
+TKT-00269,2026-08-02 12:33:00,chat,,URGENTE: Hice una devolución pero el reembolso no ha llegado ¿Podéis ayudarme?,return_refund
+TKT-00450,2026-08-02 13:06:00,email,,Necesito ayuda: Hice una devolución pero el reembolso no ha llegado Espero respuesta hoy. Mi correo es [EMAIL].,return_refund
+TKT-00426,2026-08-02 13:10:00,web_form,,"Hola, Recibí el color equivocado y además está dañado ¿Podéis ayudarme?",defective_product
+TKT-00341,2026-08-02 13:23:00,email,ORD-988979,Necesito ayuda: Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL].,delivery_delay
+TKT-00051,2026-08-02 13:38:00,chat,,"Buenos días, No recibo el código de verificación para entrar",account_access
+TKT-00091,2026-08-02 13:42:00,web_form,,Necesito ayuda: Mi cuenta está bloqueada desde esta mañana Esto es frustrante.,account_access
+TKT-00413,2026-08-02 14:01:00,chat,ORD-687305,"Buenos días, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Gracias.",delivery_delay
+TKT-00724,2026-08-02 14:10:00,chat,,Recibí el color equivocado y además está dañado,defective_product
+TKT-00295,2026-08-02 14:43:00,email,,"Buenos días, La compra aparece pendiente y no sé si repetir el pago Esto es frustrante.",payment_charge
+TKT-00303,2026-08-02 15:28:00,email,ORD-906521,"Por favor, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Esto es frustrante. Mi correo es [EMAIL].",delivery_delay
+TKT-00352,2026-08-02 15:33:00,web_form,ORD-342854,Necesito ayuda: El paquete [ORDER_ID] lleva varios días sin moverse Mi correo es [EMAIL]. Llámame al [PHONE].,delivery_delay
+TKT-00547,2026-08-02 16:29:00,chat,ORD-638994,"Buenos días, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Esto es frustrante.",return_refund
+TKT-00060,2026-08-02 18:35:00,chat,,Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme? Mi correo es [EMAIL].,account_access
+TKT-00834,2026-08-02 18:39:00,email,ORD-369150,"Necesito ayuda: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Espero respuesta hoy. Es la tercera vez que contacto y presentaré una reclamación.",delivery_delay
+TKT-00516,2026-08-02 19:10:00,email,,Falta una pieza y no puedo usar el producto Gracias. Llámame al [PHONE].,defective_product
+TKT-00106,2026-08-02 20:20:00,chat,,URGENTE: La compra aparece pendiente y no sé si repetir el pago Gracias.,payment_charge
+TKT-00810,2026-08-02 21:37:00,chat,,El pago falla aunque mi tarjeta funciona Gracias.,payment_charge
+TKT-00035,2026-08-02 22:05:00,email,,Necesito ayuda: La pantalla tiene una grieta al abrir la caja Espero respuesta hoy.,defective_product
+TKT-00761,2026-08-02 22:57:00,email,,"Buenos días, Al acceder veo los datos de otro perfil Esto es frustrante. Es la tercera vez que contacto y presentaré una reclamación.",account_access
+TKT-00132,2026-08-03 00:00:00,chat,,Necesito ayuda: La compra aparece pendiente y no sé si repetir el pago Gracias.,payment_charge
+TKT-00857,2026-08-03 00:04:00,web_form,ORD-563063,"Hola, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Espero respuesta hoy.",delivery_delay
+TKT-00382,2026-08-03 00:21:00,email,ORD-058450,URGENTE: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Espero respuesta hoy.,delivery_delay
+TKT-00223,2026-08-03 01:04:00,web_form,,URGENTE: La talla no me sirve y quiero tramitar la devolución Esto es frustrante.,return_refund
+TKT-00688,2026-08-03 01:11:00,web_form,ORD-457764,"Buenos días, Me habéis cobrado dos veces el pedido [ORDER_ID]",payment_charge
+TKT-00178,2026-08-03 01:30:00,email,ORD-671742,URGENTE: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Mi correo es [EMAIL].,delivery_delay
+TKT-00769,2026-08-03 01:37:00,web_form,,La entrega está retrasada y el seguimiento no cambia Esto es frustrante.,delivery_delay
+TKT-00748,2026-08-03 01:49:00,email,,"URGENTE: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Mi correo es [EMAIL]. Llámame al [PHONE]. Lo necesito antes de mañana por un viaje.",return_refund
+TKT-00502,2026-08-03 02:34:00,email,,URGENTE: Recibí el color equivocado y además está dañado Espero respuesta hoy.,defective_product
+TKT-00777,2026-08-03 03:00:00,email,,"Por favor, El pago falla aunque mi tarjeta funciona ¿Podéis ayudarme?",payment_charge
+TKT-00644,2026-08-03 03:58:00,email,,URGENTE: No puedo iniciar sesión y el enlace de contraseña ha caducado ¿Podéis ayudarme? Es la tercera vez que contacto y presentaré una reclamación.,account_access
+TKT-00489,2026-08-03 04:13:00,web_form,ORD-216906,Necesito ayuda: El producto de [ORDER_ID] llegó roto y no funciona Mi correo es [EMAIL].,defective_product
+TKT-00832,2026-08-03 04:27:00,web_form,,"Buenos días, No recibo el código de verificación para entrar ¿Podéis ayudarme?",account_access
+TKT-00305,2026-08-03 05:00:00,chat,ORD-955395,Necesito ayuda: Quiero devolver [ORDER_ID] y no encuentro la etiqueta Mi correo es [EMAIL].,return_refund
+TKT-00507,2026-08-03 06:01:00,web_form,,"Buenos días, La talla no me sirve y quiero tramitar la devolución",return_refund
+TKT-00533,2026-08-03 06:30:00,chat,ORD-536102,"Necesito ayuda: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Llámame al [PHONE].",delivery_delay
+TKT-00323,2026-08-03 06:48:00,web_form,ORD-440039,El paquete [ORDER_ID] lleva varios días sin moverse,delivery_delay
+TKT-00850,2026-08-03 07:47:00,email,,"Buenos días, La entrega está retrasada y el seguimiento no cambia Esto es frustrante.",delivery_delay
+TKT-00074,2026-08-03 08:34:00,email,,URGENTE: Falta una pieza y no puedo usar el producto ¿Podéis ayudarme?,defective_product
+TKT-00283,2026-08-03 09:24:00,chat,,El pago falla aunque mi tarjeta funciona Esto es frustrante.,payment_charge
+TKT-00076,2026-08-03 09:28:00,chat,,Necesito ayuda: Veo un cargo que no reconozco en mi cuenta Gracias. Es la tercera vez que contacto y presentaré una reclamación.,payment_charge
+TKT-00710,2026-08-03 09:50:00,chat,,"Buenos días, El descuento no se aplicó y el importe cobrado es incorrecto Gracias.",payment_charge
+TKT-00274,2026-08-03 10:49:00,web_form,ORD-821445,"Necesito ayuda: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Espero respuesta hoy. Llámame al [PHONE].",delivery_delay
+TKT-00632,2026-08-03 10:58:00,email,,Necesito ayuda: No recibo el código de verificación para entrar ¿Podéis ayudarme?,account_access
+TKT-00518,2026-08-03 11:14:00,email,,URGENTE: La entrega está retrasada y el seguimiento no cambia Gracias. Llámame al [PHONE].,delivery_delay
+TKT-00775,2026-08-03 14:49:00,web_form,,"Hola, La compra aparece pendiente y no sé si repetir el pago Gracias. Llámame al [PHONE].",payment_charge
+TKT-00107,2026-08-03 15:47:00,chat,,"Por favor, El artículo hace un ruido extraño y parece defectuoso ¿Podéis ayudarme? Llámame al [PHONE].",defective_product
+TKT-00113,2026-08-03 18:06:00,chat,ORD-603055,"URGENTE: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Espero respuesta hoy.",delivery_delay
+TKT-00133,2026-08-03 18:17:00,chat,ORD-536207,El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme?,delivery_delay
+TKT-00771,2026-08-03 18:52:00,web_form,,"Por favor, Recibí el color equivocado y además está dañado",defective_product
+TKT-00695,2026-08-03 19:33:00,email,,"Por favor, Al acceder veo los datos de otro perfil Gracias.",account_access
+TKT-00249,2026-08-03 20:25:00,email,,"Por favor, El artículo hace un ruido extraño y parece defectuoso Es la tercera vez que contacto y presentaré una reclamación.",defective_product
+TKT-00712,2026-08-03 21:56:00,email,,"Buenos días, La compra aparece pendiente y no sé si repetir el pago ¿Podéis ayudarme?",payment_charge
+TKT-00319,2026-08-03 22:18:00,chat,,Necesito ayuda: Hice una devolución pero el reembolso no ha llegado Esto es frustrante. Llámame al [PHONE].,return_refund
+TKT-00184,2026-08-03 22:21:00,web_form,,"Por favor, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Gracias. Llámame al [PHONE].",return_refund
+TKT-00452,2026-08-04 00:03:00,chat,ORD-421391,Quiero devolver [ORDER_ID] y no encuentro la etiqueta Gracias. Mi correo es [EMAIL].,return_refund
+TKT-00213,2026-08-04 02:21:00,chat,,Necesito ayuda: La entrega está retrasada y el seguimiento no cambia Esto es frustrante.,delivery_delay
+TKT-00896,2026-08-04 02:35:00,web_form,ORD-548191,"URGENTE: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Gracias. Mi correo es [EMAIL].",delivery_delay
+TKT-00755,2026-08-04 03:15:00,email,,Necesito ayuda: Falta una pieza y no puedo usar el producto Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.,defective_product
+TKT-00202,2026-08-04 05:27:00,email,,"Por favor, No recibo el código de verificación para entrar Espero respuesta hoy.",account_access
+TKT-00181,2026-08-04 06:01:00,email,ORD-744705,"Buenos días, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Gracias. Mi correo es [EMAIL].",delivery_delay
+TKT-00475,2026-08-04 07:28:00,email,ORD-530750,"Buenos días, Necesito cancelar y recuperar el dinero de [ORDER_ID] Mi correo es [EMAIL].",return_refund
+TKT-00387,2026-08-04 08:02:00,chat,ORD-617290,URGENTE: El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme? Llámame al [PHONE].,delivery_delay
+TKT-00170,2026-08-04 09:04:00,chat,ORD-892781,Necesito ayuda: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias. Mi correo es [EMAIL].,delivery_delay
+TKT-00308,2026-08-04 09:20:00,email,ORD-648387,"Hola, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias.",delivery_delay
+TKT-00233,2026-08-04 09:37:00,web_form,ORD-928562,Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] ¿Podéis ayudarme?,delivery_delay
+TKT-00515,2026-08-04 10:34:00,email,ORD-492630,"Hola, El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme?",delivery_delay
+TKT-00534,2026-08-04 11:02:00,email,,"El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Esto es frustrante.",return_refund
+TKT-00460,2026-08-04 11:51:00,email,ORD-644969,"Necesito ayuda: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo ¿Podéis ayudarme? Llámame al [PHONE].",delivery_delay
+TKT-00637,2026-08-04 12:59:00,chat,,"Hola, La pantalla tiene una grieta al abrir la caja Espero respuesta hoy.",defective_product
+TKT-00802,2026-08-04 13:10:00,web_form,ORD-642476,Necesito ayuda: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece,delivery_delay
+TKT-00164,2026-08-04 14:02:00,web_form,,"Hola, La talla no me sirve y quiero tramitar la devolución Llámame al [PHONE].",return_refund
+TKT-00262,2026-08-04 16:46:00,email,ORD-064050,"Buenos días, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] ¿Podéis ayudarme?",delivery_delay
+TKT-00571,2026-08-04 17:50:00,web_form,,"Hola, No recibo el código de verificación para entrar Espero respuesta hoy.",account_access
+TKT-00514,2026-08-04 17:58:00,web_form,,Cambió mi correo y ahora no puedo recuperar la cuenta Gracias. Lo necesito antes de mañana por un viaje.,account_access
+TKT-00570,2026-08-04 20:37:00,email,ORD-001918,"Por favor, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID]",delivery_delay
+TKT-00541,2026-08-04 21:05:00,email,,Necesito ayuda: Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme?,account_access
+TKT-00313,2026-08-04 21:41:00,email,ORD-617549,Necesito ayuda: Necesito cancelar y recuperar el dinero de [ORDER_ID] Espero respuesta hoy.,return_refund
+TKT-00536,2026-08-04 22:19:00,email,,Cambió mi correo y ahora no puedo recuperar la cuenta Esto es frustrante.,account_access
+TKT-00248,2026-08-04 22:20:00,web_form,ORD-007714,Quiero devolver [ORDER_ID] y no encuentro la etiqueta,return_refund
+TKT-00510,2026-08-04 23:16:00,web_form,,Necesito ayuda: El artículo hace un ruido extraño y parece defectuoso Esto es frustrante. Llámame al [PHONE].,defective_product
+TKT-00014,2026-08-04 23:29:00,email,,"Por favor, Hice una devolución pero el reembolso no ha llegado Mi correo es [EMAIL]. Llámame al [PHONE].",return_refund
+TKT-00077,2026-08-04 23:49:00,chat,,El pago falla aunque mi tarjeta funciona,payment_charge
+TKT-00817,2026-08-05 01:49:00,email,,URGENTE: Al acceder veo los datos de otro perfil Gracias.,account_access
+TKT-00824,2026-08-05 02:12:00,chat,ORD-136902,"Por favor, Me habéis cobrado dos veces el pedido [ORDER_ID] Gracias.",payment_charge
+TKT-00579,2026-08-05 02:27:00,web_form,,Necesito ayuda: Hice una devolución pero el reembolso no ha llegado Gracias.,return_refund
+TKT-00458,2026-08-05 02:34:00,chat,,No recibo el código de verificación para entrar,account_access
+TKT-00581,2026-08-05 02:51:00,email,ORD-208575,Necesito ayuda: Quiero devolver [ORDER_ID] y no encuentro la etiqueta Espero respuesta hoy. Mi correo es [EMAIL].,return_refund
+TKT-00204,2026-08-05 03:27:00,web_form,,Necesito ayuda: El pago falla aunque mi tarjeta funciona Mi correo es [EMAIL].,payment_charge
+TKT-00656,2026-08-05 03:51:00,web_form,,"Hola, El artículo hace un ruido extraño y parece defectuoso Espero respuesta hoy. Llámame al [PHONE].",defective_product
+TKT-00804,2026-08-05 04:15:00,chat,,URGENTE: El descuento no se aplicó y el importe cobrado es incorrecto Espero respuesta hoy.,payment_charge
+TKT-00511,2026-08-05 04:46:00,email,,"Por favor, Veo un cargo que no reconozco en mi cuenta",payment_charge
+TKT-00627,2026-08-05 06:38:00,email,ORD-762685,"Por favor, El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme?",delivery_delay
+TKT-00882,2026-08-05 06:59:00,web_form,ORD-902056,Necesito ayuda: El producto de [ORDER_ID] llegó roto y no funciona,defective_product
+TKT-00646,2026-08-05 07:44:00,chat,,"Por favor, Al acceder veo los datos de otro perfil Esto es frustrante. Mi correo es [EMAIL].",account_access
+TKT-00517,2026-08-05 07:53:00,email,ORD-644610,Necesito ayuda: Necesito cancelar y recuperar el dinero de [ORDER_ID] Espero respuesta hoy.,return_refund
+TKT-00141,2026-08-05 08:07:00,email,,"Buenos días, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Gracias.",return_refund
+TKT-00255,2026-08-05 09:09:00,email,ORD-547516,"Hola, Me habéis cobrado dos veces el pedido [ORDER_ID] Esto es frustrante. Llámame al [PHONE].",payment_charge
+TKT-00881,2026-08-05 09:56:00,email,ORD-820254,"Buenos días, El paquete [ORDER_ID] lleva varios días sin moverse Gracias.",delivery_delay
+TKT-00605,2026-08-05 11:09:00,web_form,ORD-198990,Necesito ayuda: Me habéis cobrado dos veces el pedido [ORDER_ID] Gracias.,payment_charge
+TKT-00629,2026-08-05 12:18:00,web_form,,URGENTE: El artículo hace un ruido extraño y parece defectuoso Espero respuesta hoy.,defective_product
+TKT-00159,2026-08-05 12:46:00,web_form,,URGENTE: Veo un cargo que no reconozco en mi cuenta Espero respuesta hoy. Mi correo es [EMAIL].,payment_charge
+TKT-00673,2026-08-05 13:06:00,email,,"Hola, La compra aparece pendiente y no sé si repetir el pago Espero respuesta hoy.",payment_charge
+TKT-00087,2026-08-05 15:02:00,email,,URGENTE: El descuento no se aplicó y el importe cobrado es incorrecto Gracias.,payment_charge
+TKT-00146,2026-08-05 16:06:00,chat,,"Buenos días, El artículo hace un ruido extraño y parece defectuoso Espero respuesta hoy. Mi correo es [EMAIL].",defective_product
+TKT-00784,2026-08-05 16:44:00,web_form,ORD-107221,"Por favor, Necesito cancelar y recuperar el dinero de [ORDER_ID] ¿Podéis ayudarme?",return_refund
+TKT-00238,2026-08-05 17:26:00,email,,URGENTE: Veo un cargo que no reconozco en mi cuenta Espero respuesta hoy.,payment_charge
+TKT-00027,2026-08-05 17:55:00,chat,ORD-492936,"Por favor, El producto de [ORDER_ID] llegó roto y no funciona Esto es frustrante.",defective_product
+TKT-00701,2026-08-05 18:40:00,email,,"Buenos días, La entrega está retrasada y el seguimiento no cambia Esto es frustrante.",delivery_delay
+TKT-00442,2026-08-05 19:27:00,chat,,"Buenos días, Cambió mi correo y ahora no puedo recuperar la cuenta Esto es frustrante. Es la tercera vez que contacto y presentaré una reclamación.",account_access
+TKT-00306,2026-08-05 19:34:00,chat,,La pantalla tiene una grieta al abrir la caja Espero respuesta hoy. Mi correo es [EMAIL].,defective_product
+TKT-00791,2026-08-05 19:39:00,web_form,ORD-490597,"Hola, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Mi correo es [EMAIL].",delivery_delay
+TKT-00473,2026-08-05 21:29:00,chat,,"Por favor, El descuento no se aplicó y el importe cobrado es incorrecto Esto es frustrante.",payment_charge
+TKT-00447,2026-08-05 21:35:00,web_form,,"Hola, Falta una pieza y no puedo usar el producto Esto es frustrante. Llámame al [PHONE].",defective_product
+TKT-00789,2026-08-05 22:19:00,web_form,ORD-996374,"Hola, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Gracias.",delivery_delay
+TKT-00520,2026-08-05 22:41:00,chat,ORD-630003,"Buenos días, El producto de [ORDER_ID] llegó roto y no funciona Gracias. Mi correo es [EMAIL].",defective_product
+TKT-00089,2026-08-05 23:35:00,chat,ORD-417277,Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Es la tercera vez que contacto y presentaré una reclamación.,delivery_delay
+TKT-00736,2026-08-06 00:11:00,email,ORD-631545,Necesito ayuda: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece ¿Podéis ayudarme? Es la tercera vez que contacto y presentaré una reclamación.,delivery_delay
+TKT-00336,2026-08-06 00:38:00,email,,"Hola, Hice una devolución pero el reembolso no ha llegado ¿Podéis ayudarme?",return_refund
+TKT-00631,2026-08-06 00:42:00,email,,URGENTE: No recibo el código de verificación para entrar Gracias.,account_access
+TKT-00894,2026-08-06 02:06:00,email,ORD-118334,URGENTE: Necesito cancelar y recuperar el dinero de [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL].,return_refund
+TKT-00183,2026-08-06 02:48:00,email,,"Buenos días, Veo un cargo que no reconozco en mi cuenta Esto es frustrante. Mi correo es [EMAIL].",payment_charge
+TKT-00389,2026-08-06 02:54:00,email,,"Hola, Recibí el color equivocado y además está dañado Espero respuesta hoy.",defective_product
+TKT-00725,2026-08-06 06:04:00,web_form,,Al acceder veo los datos de otro perfil Gracias.,account_access
+TKT-00337,2026-08-06 06:33:00,email,ORD-998557,"Hola, Necesito cancelar y recuperar el dinero de [ORDER_ID] Gracias.",return_refund
+TKT-00045,2026-08-06 07:58:00,web_form,,"Hola, La talla no me sirve y quiero tramitar la devolución ¿Podéis ayudarme? Lo necesito antes de mañana por un viaje.",return_refund
+TKT-00498,2026-08-06 08:18:00,web_form,ORD-242250,El paquete [ORDER_ID] lleva varios días sin moverse Espero respuesta hoy.,delivery_delay
+TKT-00801,2026-08-06 10:30:00,web_form,,Necesito ayuda: La entrega está retrasada y el seguimiento no cambia Espero respuesta hoy.,delivery_delay
+TKT-00544,2026-08-06 10:51:00,email,,"Por favor, El artículo hace un ruido extraño y parece defectuoso Mi correo es [EMAIL]. Llámame al [PHONE].",defective_product
+TKT-00428,2026-08-06 12:10:00,email,ORD-224232,URGENTE: Necesito cancelar y recuperar el dinero de [ORDER_ID] Gracias.,return_refund
+TKT-00298,2026-08-06 13:29:00,web_form,,La pantalla tiene una grieta al abrir la caja Gracias. Mi correo es [EMAIL].,defective_product
+TKT-00689,2026-08-06 15:01:00,web_form,ORD-231173,"Buenos días, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Esto es frustrante. Mi correo es [EMAIL].",delivery_delay
+TKT-00527,2026-08-06 15:34:00,web_form,,URGENTE: La compra aparece pendiente y no sé si repetir el pago Espero respuesta hoy.,payment_charge
+TKT-00690,2026-08-06 16:22:00,email,,"Por favor, Falta una pieza y no puedo usar el producto ¿Podéis ayudarme? Mi correo es [EMAIL].",defective_product
+TKT-00429,2026-08-06 16:23:00,email,,"Hola, Recibí el color equivocado y además está dañado Espero respuesta hoy. Es la tercera vez que contacto y presentaré una reclamación.",defective_product
+TKT-00408,2026-08-06 18:53:00,web_form,ORD-968881,URGENTE: Quiero devolver [ORDER_ID] y no encuentro la etiqueta ¿Podéis ayudarme?,return_refund
+TKT-00805,2026-08-06 19:42:00,web_form,,URGENTE: Mi cuenta está bloqueada desde esta mañana ¿Podéis ayudarme?,account_access
+TKT-00371,2026-08-06 20:04:00,web_form,,La talla no me sirve y quiero tramitar la devolución Gracias. Llámame al [PHONE].,return_refund
+TKT-00845,2026-08-06 20:28:00,email,ORD-611122,"Hola, El producto de [ORDER_ID] llegó roto y no funciona ¿Podéis ayudarme? Llámame al [PHONE].",defective_product
+TKT-00576,2026-08-06 21:09:00,chat,ORD-145419,"Hola, El paquete [ORDER_ID] lleva varios días sin moverse Espero respuesta hoy.",delivery_delay
+TKT-00677,2026-08-06 21:52:00,email,,"Hola, Falta una pieza y no puedo usar el producto Gracias. Mi correo es [EMAIL].",defective_product
+TKT-00825,2026-08-06 22:46:00,chat,,Necesito ayuda: La pantalla tiene una grieta al abrir la caja Gracias. Llámame al [PHONE]. Es la tercera vez que contacto y presentaré una reclamación.,defective_product
+TKT-00687,2026-08-06 23:24:00,email,,"Por favor, Al acceder veo los datos de otro perfil Esto es frustrante.",account_access
+TKT-00532,2026-08-07 00:02:00,web_form,,"Por favor, Mi cuenta está bloqueada desde esta mañana Espero respuesta hoy.",account_access
+TKT-00564,2026-08-07 01:47:00,web_form,,Necesito ayuda: No puedo iniciar sesión y el enlace de contraseña ha caducado Esto es frustrante. Mi correo es [EMAIL].,account_access
+TKT-00360,2026-08-07 02:36:00,email,,"Buenos días, Mi cuenta está bloqueada desde esta mañana ¿Podéis ayudarme?",account_access
+TKT-00868,2026-08-07 04:36:00,email,,"Buenos días, No recibo el código de verificación para entrar Esto es frustrante.",account_access
+TKT-00485,2026-08-07 06:39:00,web_form,ORD-870549,"Hola, Necesito cancelar y recuperar el dinero de [ORDER_ID] Gracias. Mi correo es [EMAIL].",return_refund
+TKT-00643,2026-08-07 06:39:00,web_form,,No puedo iniciar sesión y el enlace de contraseña ha caducado Gracias. Llámame al [PHONE].,account_access
+TKT-00104,2026-08-07 07:12:00,email,,URGENTE: La entrega está retrasada y el seguimiento no cambia Espero respuesta hoy.,delivery_delay
+TKT-00670,2026-08-07 07:35:00,email,,"Hola, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Esto es frustrante.",return_refund
+TKT-00082,2026-08-07 08:08:00,web_form,ORD-921272,"Hola, Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy.",payment_charge
+TKT-00780,2026-08-07 08:28:00,chat,ORD-924416,"Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo",delivery_delay
+TKT-00497,2026-08-07 09:02:00,web_form,,"Por favor, No recibo el código de verificación para entrar Espero respuesta hoy. Es la tercera vez que contacto y presentaré una reclamación.",account_access
+TKT-00556,2026-08-07 09:09:00,web_form,,"Hola, La entrega está retrasada y el seguimiento no cambia ¿Podéis ayudarme?",delivery_delay
+TKT-00167,2026-08-07 09:10:00,web_form,,"Por favor, El descuento no se aplicó y el importe cobrado es incorrecto",payment_charge
+TKT-00343,2026-08-07 11:27:00,web_form,,URGENTE: Recibí el color equivocado y además está dañado Mi correo es [EMAIL].,defective_product
+TKT-00727,2026-08-07 11:34:00,web_form,,URGENTE: El descuento no se aplicó y el importe cobrado es incorrecto ¿Podéis ayudarme? Llámame al [PHONE].,payment_charge
+TKT-00692,2026-08-07 11:45:00,chat,ORD-876073,"Por favor, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Espero respuesta hoy. Llámame al [PHONE].",return_refund
+TKT-00764,2026-08-07 12:37:00,chat,ORD-011202,"Hola, Necesito cancelar y recuperar el dinero de [ORDER_ID] ¿Podéis ayudarme? Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.",return_refund
+TKT-00641,2026-08-07 12:46:00,web_form,ORD-563648,"Hola, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID]",delivery_delay
+TKT-00066,2026-08-07 13:16:00,email,,"Por favor, No puedo iniciar sesión y el enlace de contraseña ha caducado Esto es frustrante.",account_access
+TKT-00344,2026-08-07 13:55:00,chat,,No recibo el código de verificación para entrar Espero respuesta hoy.,account_access
+TKT-00061,2026-08-07 16:11:00,web_form,,Necesito ayuda: Hice una devolución pero el reembolso no ha llegado Gracias.,return_refund
+TKT-00752,2026-08-07 18:45:00,chat,,"Hola, No recibo el código de verificación para entrar Esto es frustrante.",account_access
+TKT-00719,2026-08-07 19:35:00,web_form,,"Por favor, El artículo hace un ruido extraño y parece defectuoso Esto es frustrante. Es la tercera vez que contacto y presentaré una reclamación.",defective_product
+TKT-00374,2026-08-07 20:41:00,email,,"Por favor, La compra aparece pendiente y no sé si repetir el pago Mi correo es [EMAIL].",payment_charge
+TKT-00368,2026-08-07 20:48:00,email,,Necesito ayuda: La compra aparece pendiente y no sé si repetir el pago Espero respuesta hoy.,payment_charge
+TKT-00526,2026-08-07 21:14:00,chat,ORD-938546,Necesito ayuda: Necesito cancelar y recuperar el dinero de [ORDER_ID],return_refund
+TKT-00314,2026-08-07 22:24:00,web_form,,"URGENTE: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? ¿Podéis ayudarme?",return_refund
+TKT-00721,2026-08-07 22:46:00,chat,,Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme? Llámame al [PHONE].,account_access
+TKT-00696,2026-08-08 00:50:00,web_form,,URGENTE: No puedo iniciar sesión y el enlace de contraseña ha caducado Espero respuesta hoy.,account_access
+TKT-00153,2026-08-08 01:26:00,chat,,"Por favor, El descuento no se aplicó y el importe cobrado es incorrecto",payment_charge
+TKT-00750,2026-08-08 01:26:00,chat,,"Buenos días, La compra aparece pendiente y no sé si repetir el pago Esto es frustrante. Mi correo es [EMAIL].",payment_charge
+TKT-00607,2026-08-08 01:32:00,email,ORD-932312,"Por favor, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Esto es frustrante.",delivery_delay
+TKT-00346,2026-08-08 01:55:00,web_form,ORD-300140,"Buenos días, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] ¿Podéis ayudarme?",delivery_delay
+TKT-00625,2026-08-08 03:05:00,chat,ORD-662603,"Buenos días, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo ¿Podéis ayudarme?",delivery_delay
+TKT-00435,2026-08-08 03:11:00,email,,Necesito ayuda: Al acceder veo los datos de otro perfil,account_access
+TKT-00325,2026-08-08 04:10:00,chat,,"Buenos días, Al acceder veo los datos de otro perfil ¿Podéis ayudarme? Lo necesito antes de mañana por un viaje.",account_access
+TKT-00031,2026-08-08 04:41:00,chat,,Necesito ayuda: No puedo iniciar sesión y el enlace de contraseña ha caducado Gracias.,account_access
+TKT-00493,2026-08-08 05:14:00,web_form,,URGENTE: La talla no me sirve y quiero tramitar la devolución Es la tercera vez que contacto y presentaré una reclamación.,return_refund
+TKT-00030,2026-08-08 06:43:00,web_form,ORD-315843,Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias. Llámame al [PHONE].,delivery_delay
+TKT-00654,2026-08-08 07:59:00,email,,URGENTE: La compra aparece pendiente y no sé si repetir el pago Esto es frustrante.,payment_charge
+TKT-00293,2026-08-08 08:05:00,chat,,"Hola, No recibo el código de verificación para entrar Mi correo es [EMAIL]. Llámame al [PHONE].",account_access
+TKT-00665,2026-08-08 09:09:00,email,,"Buenos días, La talla no me sirve y quiero tramitar la devolución Gracias.",return_refund
+TKT-00614,2026-08-08 10:00:00,web_form,,"Por favor, No recibo el código de verificación para entrar Esto es frustrante.",account_access
+TKT-00355,2026-08-08 10:10:00,web_form,ORD-012392,"Buenos días, Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL].",payment_charge
+TKT-00551,2026-08-08 10:40:00,web_form,ORD-156600,"Por favor, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Espero respuesta hoy. Llámame al [PHONE].",delivery_delay
+TKT-00879,2026-08-08 11:18:00,web_form,,"Buenos días, El artículo hace un ruido extraño y parece defectuoso Lo necesito antes de mañana por un viaje.",defective_product
+TKT-00307,2026-08-08 11:18:00,chat,,"Por favor, Recibí el color equivocado y además está dañado Gracias.",defective_product
+TKT-00144,2026-08-08 11:47:00,web_form,,Recibí el color equivocado y además está dañado ¿Podéis ayudarme? Mi correo es [EMAIL].,defective_product
+TKT-00187,2026-08-08 11:53:00,web_form,,Al acceder veo los datos de otro perfil Gracias.,account_access
+TKT-00856,2026-08-08 12:23:00,email,,URGENTE: No puedo iniciar sesión y el enlace de contraseña ha caducado Mi correo es [EMAIL].,account_access
+TKT-00100,2026-08-08 13:22:00,web_form,,"Buenos días, La entrega está retrasada y el seguimiento no cambia Gracias.",delivery_delay
+TKT-00462,2026-08-08 13:45:00,email,,"Buenos días, Falta una pieza y no puedo usar el producto Gracias. Mi correo es [EMAIL]. Llámame al [PHONE].",defective_product
+TKT-00279,2026-08-08 14:08:00,chat,ORD-162627,"Hola, Necesito cancelar y recuperar el dinero de [ORDER_ID] Mi correo es [EMAIL].",return_refund
+TKT-00259,2026-08-08 16:36:00,chat,,URGENTE: Mi cuenta está bloqueada desde esta mañana Esto es frustrante. Llámame al [PHONE].,account_access
+TKT-00212,2026-08-08 18:15:00,chat,,Cambió mi correo y ahora no puedo recuperar la cuenta Espero respuesta hoy.,account_access
+TKT-00289,2026-08-08 18:24:00,email,,Necesito ayuda: El pago falla aunque mi tarjeta funciona Gracias. Es la tercera vez que contacto y presentaré una reclamación.,payment_charge
+TKT-00266,2026-08-08 19:08:00,chat,ORD-995676,"Por favor, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Espero respuesta hoy. Mi correo es [EMAIL]. Llámame al [PHONE].",delivery_delay
+TKT-00079,2026-08-08 19:08:00,chat,,La compra aparece pendiente y no sé si repetir el pago Gracias.,payment_charge
+TKT-00872,2026-08-08 20:02:00,email,ORD-842541,"Buenos días, El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE]. Es la tercera vez que contacto y presentaré una reclamación. Lo necesito antes de mañana por un viaje.",delivery_delay
+TKT-00468,2026-08-08 20:19:00,web_form,,"Por favor, El artículo hace un ruido extraño y parece defectuoso ¿Podéis ayudarme? Mi correo es [EMAIL].",defective_product
+TKT-00011,2026-08-08 21:44:00,chat,,Necesito ayuda: Cambió mi correo y ahora no puedo recuperar la cuenta Espero respuesta hoy.,account_access
+TKT-00732,2026-08-09 00:53:00,web_form,,"Buenos días, La talla no me sirve y quiero tramitar la devolución ¿Podéis ayudarme? Mi correo es [EMAIL].",return_refund
+TKT-00271,2026-08-09 04:01:00,web_form,,"Hola, Hice una devolución pero el reembolso no ha llegado Espero respuesta hoy.",return_refund
+TKT-00294,2026-08-09 04:13:00,email,ORD-396919,URGENTE: Necesito cancelar y recuperar el dinero de [ORDER_ID] Esto es frustrante.,return_refund
+TKT-00630,2026-08-09 05:40:00,web_form,,La compra aparece pendiente y no sé si repetir el pago Gracias.,payment_charge
+TKT-00380,2026-08-09 07:14:00,email,,"Hola, La pantalla tiene una grieta al abrir la caja",defective_product
+TKT-00348,2026-08-09 07:46:00,chat,ORD-996958,"Hola, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Esto es frustrante. Llámame al [PHONE].",return_refund
+TKT-00025,2026-08-09 10:29:00,email,,URGENTE: El descuento no se aplicó y el importe cobrado es incorrecto Espero respuesta hoy. Mi correo es [EMAIL].,payment_charge
+TKT-00412,2026-08-09 10:59:00,email,,"Buenos días, No recibo el código de verificación para entrar Espero respuesta hoy.",account_access
+TKT-00149,2026-08-09 11:36:00,web_form,,"Por favor, La compra aparece pendiente y no sé si repetir el pago Llámame al [PHONE].",payment_charge
+TKT-00624,2026-08-09 11:45:00,web_form,ORD-169827,"Por favor, Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy.",payment_charge
+TKT-00166,2026-08-09 17:00:00,email,ORD-595800,Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece ¿Podéis ayudarme?,delivery_delay
+TKT-00808,2026-08-09 17:30:00,email,ORD-421192,URGENTE: Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].,delivery_delay
+TKT-00026,2026-08-09 17:37:00,web_form,,URGENTE: Veo un cargo que no reconozco en mi cuenta Gracias. Mi correo es [EMAIL].,payment_charge
+TKT-00210,2026-08-09 17:41:00,web_form,,"Hola, Mi cuenta está bloqueada desde esta mañana Gracias. Es la tercera vez que contacto y presentaré una reclamación.",account_access
+TKT-00222,2026-08-09 18:20:00,email,ORD-398392,"Buenos días, El producto de [ORDER_ID] llegó roto y no funciona Mi correo es [EMAIL].",defective_product
+TKT-00713,2026-08-09 18:33:00,email,,Cambió mi correo y ahora no puedo recuperar la cuenta Gracias. Llámame al [PHONE].,account_access
+TKT-00165,2026-08-09 19:06:00,web_form,ORD-215109,URGENTE: Necesito cancelar y recuperar el dinero de [ORDER_ID] Esto es frustrante.,return_refund
+TKT-00876,2026-08-09 19:41:00,email,ORD-552857,El paquete [ORDER_ID] lleva varios días sin moverse Gracias. Mi correo es [EMAIL].,delivery_delay
+TKT-00108,2026-08-09 20:37:00,web_form,,"Buenos días, El descuento no se aplicó y el importe cobrado es incorrecto",payment_charge
+TKT-00155,2026-08-09 21:08:00,web_form,,"Buenos días, La talla no me sirve y quiero tramitar la devolución",return_refund
+TKT-00124,2026-08-09 21:48:00,email,,"Hola, Cambió mi correo y ahora no puedo recuperar la cuenta Esto es frustrante. Llámame al [PHONE].",account_access
+TKT-00492,2026-08-09 22:07:00,email,ORD-333410,"Hola, El paquete [ORDER_ID] lleva varios días sin moverse Gracias. Llámame al [PHONE].",delivery_delay
+TKT-00021,2026-08-09 22:24:00,chat,ORD-207855,Necesito ayuda: Quiero devolver [ORDER_ID] y no encuentro la etiqueta Espero respuesta hoy. Es la tercera vez que contacto y presentaré una reclamación.,return_refund
+TKT-00345,2026-08-09 22:28:00,chat,,"Buenos días, No puedo iniciar sesión y el enlace de contraseña ha caducado ¿Podéis ayudarme? Llámame al [PHONE].",account_access
+TKT-00024,2026-08-09 22:51:00,chat,,"Por favor, Recibí el color equivocado y además está dañado Gracias.",defective_product
+TKT-00830,2026-08-10 00:53:00,email,ORD-420770,"Buenos días, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Espero respuesta hoy. Mi correo es [EMAIL].",return_refund
+TKT-00467,2026-08-10 03:12:00,chat,,El artículo hace un ruido extraño y parece defectuoso Esto es frustrante.,defective_product
+TKT-00762,2026-08-10 04:07:00,email,,Necesito ayuda: Al acceder veo los datos de otro perfil Espero respuesta hoy. Mi correo es [EMAIL].,account_access
+TKT-00179,2026-08-10 04:20:00,web_form,,"Buenos días, La pantalla tiene una grieta al abrir la caja ¿Podéis ayudarme? Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.",defective_product
+TKT-00385,2026-08-10 05:21:00,web_form,ORD-508756,URGENTE: Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Espero respuesta hoy. Llámame al [PHONE]. Es la tercera vez que contacto y presentaré una reclamación.,delivery_delay
+TKT-00010,2026-08-10 05:29:00,email,,"Buenos días, Recibí el color equivocado y además está dañado Gracias. Mi correo es [EMAIL].",defective_product
+TKT-00811,2026-08-10 06:12:00,email,,Al acceder veo los datos de otro perfil Espero respuesta hoy. Llámame al [PHONE].,account_access
+TKT-00302,2026-08-10 06:43:00,chat,,"Buenos días, Falta una pieza y no puedo usar el producto Espero respuesta hoy. Mi correo es [EMAIL].",defective_product
+TKT-00567,2026-08-10 06:51:00,email,,"Por favor, La compra aparece pendiente y no sé si repetir el pago Gracias. Mi correo es [EMAIL].",payment_charge
+TKT-00827,2026-08-10 07:55:00,chat,ORD-597142,"Hola, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Gracias.",delivery_delay
+TKT-00101,2026-08-10 08:34:00,email,ORD-449022,Necesito ayuda: Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Espero respuesta hoy.,delivery_delay
+TKT-00366,2026-08-10 10:15:00,chat,,Necesito ayuda: Veo un cargo que no reconozco en mi cuenta ¿Podéis ayudarme?,payment_charge
+TKT-00634,2026-08-10 10:22:00,email,,"Buenos días, Recibí el color equivocado y además está dañado Esto es frustrante. Mi correo es [EMAIL].",defective_product
+TKT-00217,2026-08-10 10:33:00,email,ORD-589984,Necesito ayuda: Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Gracias. Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.,delivery_delay
+TKT-00046,2026-08-10 10:51:00,chat,ORD-128345,"Buenos días, Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL].",payment_charge
+TKT-00459,2026-08-10 10:57:00,chat,,"Por favor, No recibo el código de verificación para entrar ¿Podéis ayudarme? Mi correo es [EMAIL].",account_access
+TKT-00886,2026-08-10 11:20:00,chat,ORD-244301,Necesito cancelar y recuperar el dinero de [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL]. Llámame al [PHONE].,return_refund
+TKT-00198,2026-08-10 11:20:00,email,ORD-029132,"Buenos días, Necesito cancelar y recuperar el dinero de [ORDER_ID] Gracias.",return_refund
+TKT-00137,2026-08-10 11:41:00,chat,ORD-985858,"Por favor, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Espero respuesta hoy. Mi correo es [EMAIL]. Llámame al [PHONE]. Es la tercera vez que contacto y presentaré una reclamación.",return_refund
+TKT-00228,2026-08-10 11:58:00,web_form,ORD-835190,"Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Espero respuesta hoy.",delivery_delay
+TKT-00349,2026-08-10 12:49:00,email,,"Hola, El pago falla aunque mi tarjeta funciona Esto es frustrante.",payment_charge
+TKT-00235,2026-08-10 12:59:00,chat,,"Por favor, No puedo iniciar sesión y el enlace de contraseña ha caducado",account_access
+TKT-00578,2026-08-10 14:02:00,chat,,Necesito ayuda: Falta una pieza y no puedo usar el producto Espero respuesta hoy.,defective_product
+TKT-00234,2026-08-10 14:40:00,web_form,,"Buenos días, La talla no me sirve y quiero tramitar la devolución Esto es frustrante. Llámame al [PHONE].",return_refund
+TKT-00094,2026-08-10 15:00:00,email,,Necesito ayuda: La pantalla tiene una grieta al abrir la caja Espero respuesta hoy.,defective_product
+TKT-00321,2026-08-10 15:07:00,email,,Necesito ayuda: Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme?,account_access
+TKT-00728,2026-08-10 17:00:00,chat,ORD-868168,Necesito ayuda: Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.,payment_charge
+TKT-00638,2026-08-10 17:02:00,chat,,URGENTE: La pantalla tiene una grieta al abrir la caja Esto es frustrante.,defective_product
+TKT-00398,2026-08-10 17:15:00,chat,ORD-994158,"Buenos días, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo ¿Podéis ayudarme? Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.",delivery_delay
+TKT-00754,2026-08-10 18:12:00,web_form,ORD-205159,"Buenos días, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] ¿Podéis ayudarme? Mi correo es [EMAIL].",delivery_delay
+TKT-00180,2026-08-10 18:22:00,chat,,"Hola, Al acceder veo los datos de otro perfil",account_access
+TKT-00613,2026-08-10 20:30:00,email,,La compra aparece pendiente y no sé si repetir el pago Esto es frustrante. Lo necesito antes de mañana por un viaje.,payment_charge
+TKT-00548,2026-08-10 21:20:00,chat,,"Hola, Cambió mi correo y ahora no puedo recuperar la cuenta Gracias.",account_access
+TKT-00702,2026-08-11 00:52:00,chat,ORD-624173,"Hola, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo",delivery_delay
+TKT-00347,2026-08-11 01:18:00,chat,,"Buenos días, Hice una devolución pero el reembolso no ha llegado",return_refund
+TKT-00700,2026-08-11 03:18:00,chat,,"Por favor, El artículo hace un ruido extraño y parece defectuoso ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].",defective_product
+TKT-00364,2026-08-11 03:49:00,email,ORD-814511,"Por favor, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL].",delivery_delay
+TKT-00326,2026-08-11 04:43:00,web_form,,URGENTE: El pago falla aunque mi tarjeta funciona Gracias.,payment_charge
+TKT-00821,2026-08-11 06:49:00,chat,,"Por favor, El pago falla aunque mi tarjeta funciona ¿Podéis ayudarme?",payment_charge
+TKT-00197,2026-08-11 09:48:00,email,ORD-349864,Necesito ayuda: Necesito cancelar y recuperar el dinero de [ORDER_ID] Esto es frustrante.,return_refund
+TKT-00055,2026-08-11 09:59:00,web_form,,Al acceder veo los datos de otro perfil Espero respuesta hoy.,account_access
+TKT-00738,2026-08-11 10:36:00,email,,"Buenos días, Falta una pieza y no puedo usar el producto ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].",defective_product
+TKT-00869,2026-08-11 11:05:00,email,ORD-276508,Necesito ayuda: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Mi correo es [EMAIL].,delivery_delay
+TKT-00331,2026-08-11 12:27:00,chat,ORD-913269,Quiero devolver [ORDER_ID] y no encuentro la etiqueta Llámame al [PHONE].,return_refund
+TKT-00874,2026-08-11 14:35:00,email,,"Hola, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono?",return_refund
+TKT-00635,2026-08-11 15:10:00,email,ORD-267453,"Por favor, El paquete [ORDER_ID] lleva varios días sin moverse Gracias.",delivery_delay
+TKT-00201,2026-08-11 15:48:00,email,,"Hola, El pago falla aunque mi tarjeta funciona ¿Podéis ayudarme? Mi correo es [EMAIL].",payment_charge
+TKT-00840,2026-08-11 16:37:00,email,,No recibo el código de verificación para entrar Espero respuesta hoy. Llámame al [PHONE]. Lo necesito antes de mañana por un viaje.,account_access
+TKT-00208,2026-08-11 17:18:00,chat,,"Por favor, La talla no me sirve y quiero tramitar la devolución Gracias. Llámame al [PHONE]. Es la tercera vez que contacto y presentaré una reclamación.",return_refund
+TKT-00335,2026-08-11 17:23:00,web_form,ORD-559596,"Buenos días, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Mi correo es [EMAIL].",return_refund
+TKT-00065,2026-08-11 18:18:00,web_form,ORD-154036,"Hola, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Gracias.",delivery_delay
+TKT-00247,2026-08-11 19:14:00,web_form,ORD-406457,El producto de [ORDER_ID] llegó roto y no funciona Esto es frustrante. Mi correo es [EMAIL].,defective_product
+TKT-00328,2026-08-11 19:47:00,email,,URGENTE: Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme?,account_access
+TKT-00596,2026-08-11 20:06:00,email,ORD-323965,"Buenos días, El producto de [ORDER_ID] llegó roto y no funciona Espero respuesta hoy.",defective_product
+TKT-00484,2026-08-11 20:06:00,email,ORD-203210,"URGENTE: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Esto es frustrante.",delivery_delay
+TKT-00524,2026-08-11 20:29:00,web_form,,La pantalla tiene una grieta al abrir la caja ¿Podéis ayudarme?,defective_product
+TKT-00329,2026-08-11 22:17:00,chat,ORD-436915,URGENTE: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Mi correo es [EMAIL].,delivery_delay
+TKT-00523,2026-08-11 23:57:00,web_form,,"Por favor, La talla no me sirve y quiero tramitar la devolución Esto es frustrante. Mi correo es [EMAIL].",return_refund
+TKT-00127,2026-08-12 00:40:00,email,ORD-154361,URGENTE: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Esto es frustrante. Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.,delivery_delay
+TKT-00029,2026-08-12 01:49:00,web_form,,Necesito ayuda: La pantalla tiene una grieta al abrir la caja,defective_product
+TKT-00883,2026-08-12 02:27:00,email,,"Buenos días, La compra aparece pendiente y no sé si repetir el pago ¿Podéis ayudarme?",payment_charge
+TKT-00173,2026-08-12 03:59:00,email,,"Hola, El pago falla aunque mi tarjeta funciona ¿Podéis ayudarme? Mi correo es [EMAIL].",payment_charge
+TKT-00456,2026-08-12 04:40:00,web_form,ORD-209179,Necesito ayuda: Me habéis cobrado dos veces el pedido [ORDER_ID],payment_charge
+TKT-00892,2026-08-12 04:40:00,chat,ORD-411273,URGENTE: Necesito cancelar y recuperar el dinero de [ORDER_ID],return_refund
+TKT-00871,2026-08-12 04:53:00,chat,,URGENTE: Mi cuenta está bloqueada desde esta mañana Espero respuesta hoy.,account_access
+TKT-00292,2026-08-12 05:09:00,email,,"Buenos días, Falta una pieza y no puedo usar el producto Llámame al [PHONE].",defective_product
+TKT-00466,2026-08-12 06:41:00,web_form,,"Por favor, La compra aparece pendiente y no sé si repetir el pago Espero respuesta hoy. Mi correo es [EMAIL].",payment_charge
+TKT-00260,2026-08-12 07:35:00,web_form,ORD-656593,"Por favor, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Espero respuesta hoy. Mi correo es [EMAIL].",delivery_delay
+TKT-00020,2026-08-12 07:46:00,web_form,,Necesito ayuda: El pago falla aunque mi tarjeta funciona Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.,payment_charge
+TKT-00105,2026-08-12 07:52:00,web_form,,"Buenos días, La pantalla tiene una grieta al abrir la caja Espero respuesta hoy.",defective_product
+TKT-00434,2026-08-12 08:50:00,email,,"Buenos días, Falta una pieza y no puedo usar el producto Llámame al [PHONE]. Lo necesito antes de mañana por un viaje.",defective_product
+TKT-00018,2026-08-12 09:33:00,web_form,,"Hola, Hice una devolución pero el reembolso no ha llegado Gracias. Mi correo es [EMAIL].",return_refund
+TKT-00848,2026-08-12 09:34:00,web_form,,Necesito ayuda: Veo un cargo que no reconozco en mi cuenta Esto es frustrante.,payment_charge
+TKT-00129,2026-08-12 10:26:00,chat,,"Buenos días, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Esto es frustrante.",return_refund
+TKT-00440,2026-08-12 10:39:00,email,ORD-876599,"Buenos días, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Esto es frustrante.",return_refund
+TKT-00135,2026-08-12 12:48:00,email,,Veo un cargo que no reconozco en mi cuenta ¿Podéis ayudarme? Mi correo es [EMAIL].,payment_charge
+TKT-00513,2026-08-12 12:57:00,chat,,Cambió mi correo y ahora no puedo recuperar la cuenta Gracias.,account_access
+TKT-00402,2026-08-12 14:07:00,email,,La talla no me sirve y quiero tramitar la devolución Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].,return_refund
+TKT-00205,2026-08-12 15:19:00,email,,"Necesito ayuda: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Espero respuesta hoy.",return_refund
+TKT-00049,2026-08-12 15:34:00,chat,,URGENTE: La pantalla tiene una grieta al abrir la caja Esto es frustrante.,defective_product
+TKT-00822,2026-08-12 16:52:00,chat,,"Buenos días, El descuento no se aplicó y el importe cobrado es incorrecto Gracias. Mi correo es [EMAIL].",payment_charge
+TKT-00372,2026-08-12 16:59:00,email,,"Por favor, La pantalla tiene una grieta al abrir la caja Esto es frustrante.",defective_product
+TKT-00369,2026-08-12 17:15:00,web_form,,Necesito ayuda: Falta una pieza y no puedo usar el producto ¿Podéis ayudarme? Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.,defective_product
+TKT-00640,2026-08-12 18:37:00,chat,,Necesito ayuda: Hice una devolución pero el reembolso no ha llegado Gracias.,return_refund
+TKT-00864,2026-08-12 19:26:00,web_form,,URGENTE: No recibo el código de verificación para entrar Gracias. Mi correo es [EMAIL].,account_access
+TKT-00453,2026-08-12 20:01:00,email,,"Buenos días, El artículo hace un ruido extraño y parece defectuoso Esto es frustrante. Mi correo es [EMAIL].",defective_product
+TKT-00563,2026-08-12 20:33:00,web_form,,"Buenos días, El descuento no se aplicó y el importe cobrado es incorrecto Mi correo es [EMAIL]. Llámame al [PHONE].",payment_charge
+TKT-00480,2026-08-12 20:45:00,web_form,ORD-990233,"URGENTE: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Esto es frustrante. Llámame al [PHONE].",delivery_delay
+TKT-00553,2026-08-12 20:56:00,email,,"Buenos días, El pago falla aunque mi tarjeta funciona Gracias. Llámame al [PHONE].",payment_charge
+TKT-00672,2026-08-12 21:07:00,web_form,,URGENTE: No puedo iniciar sesión y el enlace de contraseña ha caducado Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].,account_access
+TKT-00083,2026-08-12 21:13:00,email,,Falta una pieza y no puedo usar el producto Mi correo es [EMAIL].,defective_product
+TKT-00338,2026-08-12 22:47:00,web_form,ORD-816234,"Buenos días, El producto de [ORDER_ID] llegó roto y no funciona ¿Podéis ayudarme?",defective_product
+TKT-00891,2026-08-12 23:39:00,web_form,,Necesito ayuda: Hice una devolución pero el reembolso no ha llegado ¿Podéis ayudarme?,return_refund
+TKT-00590,2026-08-12 23:39:00,email,,Recibí el color equivocado y además está dañado Gracias. Mi correo es [EMAIL]. Llámame al [PHONE]. Lo necesito antes de mañana por un viaje.,defective_product
+TKT-00782,2026-08-13 00:22:00,chat,,Necesito ayuda: No puedo iniciar sesión y el enlace de contraseña ha caducado Gracias. Mi correo es [EMAIL]. Llámame al [PHONE].,account_access
+TKT-00651,2026-08-13 00:43:00,web_form,ORD-805636,"Buenos días, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] ¿Podéis ayudarme?",delivery_delay
+TKT-00678,2026-08-13 01:30:00,chat,,URGENTE: El artículo hace un ruido extraño y parece defectuoso Espero respuesta hoy. Mi correo es [EMAIL]. Llámame al [PHONE].,defective_product
+TKT-00245,2026-08-13 03:17:00,web_form,,El artículo hace un ruido extraño y parece defectuoso Esto es frustrante. Llámame al [PHONE]. Lo necesito antes de mañana por un viaje.,defective_product
+TKT-00749,2026-08-13 03:18:00,chat,ORD-471422,"Hola, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] ¿Podéis ayudarme?",delivery_delay
+TKT-00768,2026-08-13 03:32:00,email,,La talla no me sirve y quiero tramitar la devolución Espero respuesta hoy.,return_refund
+TKT-00043,2026-08-13 03:42:00,web_form,,"Buenos días, Hice una devolución pero el reembolso no ha llegado ¿Podéis ayudarme? Llámame al [PHONE].",return_refund
+TKT-00552,2026-08-13 04:32:00,chat,,"Por favor, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Espero respuesta hoy.",return_refund
+TKT-00404,2026-08-13 05:30:00,web_form,,"Hola, Hice una devolución pero el reembolso no ha llegado Gracias. Mi correo es [EMAIL]. Lo necesito antes de mañana por un viaje.",return_refund
+TKT-00048,2026-08-13 06:09:00,chat,,"Por favor, La pantalla tiene una grieta al abrir la caja ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].",defective_product
+TKT-00096,2026-08-13 06:43:00,chat,,Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme? Lo necesito antes de mañana por un viaje.,account_access
+TKT-00861,2026-08-13 07:04:00,chat,,"Buenos días, Al acceder veo los datos de otro perfil Espero respuesta hoy.",account_access
+TKT-00300,2026-08-13 07:45:00,email,,"Hola, Al acceder veo los datos de otro perfil Gracias. Llámame al [PHONE].",account_access
+TKT-00835,2026-08-13 09:08:00,email,,"Por favor, No puedo iniciar sesión y el enlace de contraseña ha caducado ¿Podéis ayudarme?",account_access
+TKT-00766,2026-08-13 09:31:00,chat,ORD-941814,"Hola, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Mi correo es [EMAIL].",delivery_delay
+TKT-00733,2026-08-13 10:05:00,web_form,,Veo un cargo que no reconozco en mi cuenta ¿Podéis ayudarme?,payment_charge
+TKT-00110,2026-08-13 10:58:00,web_form,,"Por favor, Recibí el color equivocado y además está dañado Gracias. Mi correo es [EMAIL].",defective_product
+TKT-00056,2026-08-13 12:26:00,chat,ORD-639895,"Hola, Me habéis cobrado dos veces el pedido [ORDER_ID] ¿Podéis ayudarme? Llámame al [PHONE].",payment_charge
+TKT-00560,2026-08-13 12:56:00,chat,,Falta una pieza y no puedo usar el producto Gracias. Mi correo es [EMAIL].,defective_product
+TKT-00361,2026-08-13 13:00:00,email,ORD-492641,URGENTE: Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Esto es frustrante.,delivery_delay
+TKT-00111,2026-08-13 13:44:00,email,ORD-595035,"Buenos días, Necesito cancelar y recuperar el dinero de [ORDER_ID]",return_refund
+TKT-00039,2026-08-13 13:48:00,chat,,"Por favor, Al acceder veo los datos de otro perfil Gracias. Mi correo es [EMAIL].",account_access
+TKT-00529,2026-08-13 15:32:00,email,ORD-589781,"Buenos días, El producto de [ORDER_ID] llegó roto y no funciona ¿Podéis ayudarme? Lo necesito antes de mañana por un viaje.",defective_product
+TKT-00649,2026-08-13 15:35:00,web_form,,"Buenos días, Falta una pieza y no puedo usar el producto Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.",defective_product
+TKT-00898,2026-08-13 16:33:00,web_form,,"Hola, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? ¿Podéis ayudarme? Llámame al [PHONE].",return_refund
+TKT-00272,2026-08-13 17:53:00,chat,,"Buenos días, Hice una devolución pero el reembolso no ha llegado ¿Podéis ayudarme?",return_refund
+TKT-00400,2026-08-13 18:26:00,email,,URGENTE: Cambió mi correo y ahora no puedo recuperar la cuenta Esto es frustrante.,account_access
+TKT-00005,2026-08-13 18:27:00,email,ORD-345100,Necesito cancelar y recuperar el dinero de [ORDER_ID],return_refund
+TKT-00362,2026-08-13 18:35:00,email,ORD-081344,Quiero devolver [ORDER_ID] y no encuentro la etiqueta Esto es frustrante. Llámame al [PHONE].,return_refund
+TKT-00390,2026-08-13 18:43:00,chat,,Necesito ayuda: Mi cuenta está bloqueada desde esta mañana Esto es frustrante. Mi correo es [EMAIL].,account_access
+TKT-00373,2026-08-13 18:44:00,email,,"Buenos días, El pago falla aunque mi tarjeta funciona Esto es frustrante.",payment_charge
+TKT-00813,2026-08-13 18:55:00,email,,"Hola, Mi cuenta está bloqueada desde esta mañana Espero respuesta hoy. Lo necesito antes de mañana por un viaje.",account_access
+TKT-00457,2026-08-13 20:07:00,chat,ORD-449261,"Buenos días, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo",delivery_delay
+TKT-00839,2026-08-13 22:55:00,email,,URGENTE: El pago falla aunque mi tarjeta funciona Mi correo es [EMAIL].,payment_charge
+TKT-00067,2026-08-14 00:10:00,chat,,Necesito ayuda: Mi cuenta está bloqueada desde esta mañana,account_access
+TKT-00666,2026-08-14 00:54:00,chat,,"Hola, Veo un cargo que no reconozco en mi cuenta Esto es frustrante.",payment_charge
+TKT-00602,2026-08-14 02:02:00,chat,ORD-410529,Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Gracias.,delivery_delay
+TKT-00889,2026-08-14 02:53:00,email,ORD-458672,Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Espero respuesta hoy. Mi correo es [EMAIL].,delivery_delay
+TKT-00449,2026-08-14 04:45:00,email,ORD-216989,Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias. Llámame al [PHONE].,delivery_delay
+TKT-00525,2026-08-14 04:59:00,chat,ORD-110934,Necesito cancelar y recuperar el dinero de [ORDER_ID] Esto es frustrante. Mi correo es [EMAIL].,return_refund
+TKT-00064,2026-08-14 06:24:00,chat,,"Hola, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Gracias.",return_refund
+TKT-00745,2026-08-14 07:29:00,web_form,,"Por favor, Recibí el color equivocado y además está dañado Gracias.",defective_product
+TKT-00616,2026-08-14 08:00:00,chat,,No puedo iniciar sesión y el enlace de contraseña ha caducado Esto es frustrante. Mi correo es [EMAIL].,account_access
+TKT-00185,2026-08-14 08:02:00,web_form,ORD-348108,"Hola, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece ¿Podéis ayudarme? Mi correo es [EMAIL].",delivery_delay
+TKT-00172,2026-08-14 10:54:00,web_form,ORD-545263,"Buenos días, El paquete [ORDER_ID] lleva varios días sin moverse Esto es frustrante. Mi correo es [EMAIL].",delivery_delay
+TKT-00747,2026-08-14 11:31:00,web_form,,La compra aparece pendiente y no sé si repetir el pago,payment_charge
+TKT-00693,2026-08-14 11:32:00,web_form,,No puedo iniciar sesión y el enlace de contraseña ha caducado ¿Podéis ayudarme?,account_access
+TKT-00004,2026-08-14 11:52:00,web_form,ORD-165219,Necesito ayuda: Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL].,payment_charge
+TKT-00860,2026-08-14 12:08:00,chat,,"Buenos días, Veo un cargo que no reconozco en mi cuenta ¿Podéis ayudarme? Mi correo es [EMAIL].",payment_charge
+TKT-00420,2026-08-14 14:41:00,chat,,Necesito ayuda: El descuento no se aplicó y el importe cobrado es incorrecto Espero respuesta hoy.,payment_charge
+TKT-00770,2026-08-14 15:01:00,web_form,,La entrega está retrasada y el seguimiento no cambia ¿Podéis ayudarme?,delivery_delay
+TKT-00554,2026-08-14 15:11:00,email,ORD-177598,El producto de [ORDER_ID] llegó roto y no funciona,defective_product
+TKT-00367,2026-08-14 16:40:00,email,,"Por favor, La pantalla tiene una grieta al abrir la caja Esto es frustrante.",defective_product
+TKT-00424,2026-08-14 17:10:00,email,,"Hola, Al acceder veo los datos de otro perfil ¿Podéis ayudarme?",account_access
+TKT-00062,2026-08-14 18:02:00,chat,,URGENTE: Veo un cargo que no reconozco en mi cuenta Esto es frustrante.,payment_charge
+TKT-00742,2026-08-14 18:44:00,email,,"Buenos días, La compra aparece pendiente y no sé si repetir el pago Espero respuesta hoy. Mi correo es [EMAIL].",payment_charge
+TKT-00558,2026-08-14 21:21:00,email,ORD-955456,Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Esto es frustrante. Es la tercera vez que contacto y presentaré una reclamación.,delivery_delay
+TKT-00250,2026-08-14 21:25:00,chat,ORD-999955,"Buenos días, El producto de [ORDER_ID] llegó roto y no funciona ¿Podéis ayudarme?",defective_product
+TKT-00543,2026-08-14 21:30:00,chat,,Veo un cargo que no reconozco en mi cuenta Gracias. Es la tercera vez que contacto y presentaré una reclamación.,payment_charge
+TKT-00522,2026-08-14 21:39:00,email,ORD-500238,"Hola, El producto de [ORDER_ID] llegó roto y no funciona Espero respuesta hoy.",defective_product
+TKT-00246,2026-08-14 22:15:00,web_form,,"Por favor, Cambió mi correo y ahora no puedo recuperar la cuenta Esto es frustrante. Mi correo es [EMAIL].",account_access
+TKT-00807,2026-08-14 23:07:00,email,,"Por favor, Al acceder veo los datos de otro perfil Llámame al [PHONE].",account_access
+TKT-00240,2026-08-14 23:27:00,email,,Necesito ayuda: Veo un cargo que no reconozco en mi cuenta Esto es frustrante.,payment_charge
+TKT-00490,2026-08-15 00:41:00,chat,,"Buenos días, Al acceder veo los datos de otro perfil Espero respuesta hoy.",account_access
+TKT-00263,2026-08-15 01:09:00,email,ORD-579712,"Buenos días, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Gracias. Llámame al [PHONE].",delivery_delay
+TKT-00015,2026-08-15 01:55:00,chat,,"Por favor, Cambió mi correo y ahora no puedo recuperar la cuenta Esto es frustrante.",account_access
+TKT-00059,2026-08-15 02:40:00,email,,URGENTE: Cambió mi correo y ahora no puedo recuperar la cuenta Gracias.,account_access
+TKT-00288,2026-08-15 03:15:00,chat,,El artículo hace un ruido extraño y parece defectuoso ¿Podéis ayudarme? Llámame al [PHONE].,defective_product
+TKT-00675,2026-08-15 04:39:00,chat,,Necesito ayuda: No puedo iniciar sesión y el enlace de contraseña ha caducado Esto es frustrante.,account_access
+TKT-00847,2026-08-15 05:47:00,chat,ORD-292051,"Por favor, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Gracias. Lo necesito antes de mañana por un viaje.",delivery_delay
+TKT-00287,2026-08-15 07:39:00,chat,ORD-717788,"Por favor, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Espero respuesta hoy. Llámame al [PHONE].",return_refund
+TKT-00496,2026-08-15 07:46:00,email,,"Por favor, No recibo el código de verificación para entrar ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].",account_access
+TKT-00720,2026-08-15 09:05:00,email,ORD-976954,Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Gracias. Es la tercera vez que contacto y presentaré una reclamación.,delivery_delay
+TKT-00174,2026-08-15 09:13:00,web_form,ORD-495454,"Por favor, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Espero respuesta hoy.",return_refund
+TKT-00591,2026-08-15 10:30:00,web_form,,Necesito ayuda: La compra aparece pendiente y no sé si repetir el pago Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].,payment_charge
+TKT-00003,2026-08-15 10:34:00,email,ORD-338812,"Buenos días, Me habéis cobrado dos veces el pedido [ORDER_ID] Gracias. Lo necesito antes de mañana por un viaje.",payment_charge
+TKT-00177,2026-08-15 10:46:00,chat,ORD-369925,URGENTE: Me habéis cobrado dos veces el pedido [ORDER_ID] Gracias.,payment_charge
+TKT-00795,2026-08-15 11:20:00,email,,URGENTE: No recibo el código de verificación para entrar ¿Podéis ayudarme? Mi correo es [EMAIL].,account_access
+TKT-00888,2026-08-15 11:31:00,web_form,ORD-361129,Necesito ayuda: Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] ¿Podéis ayudarme? Llámame al [PHONE].,delivery_delay
+TKT-00600,2026-08-15 11:37:00,chat,,"Hola, La pantalla tiene una grieta al abrir la caja Espero respuesta hoy. Mi correo es [EMAIL].",defective_product
+TKT-00350,2026-08-15 12:16:00,email,,Necesito ayuda: Recibí el color equivocado y además está dañado ¿Podéis ayudarme?,defective_product
+TKT-00557,2026-08-15 12:48:00,web_form,,Necesito ayuda: El artículo hace un ruido extraño y parece defectuoso Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.,defective_product
+TKT-00229,2026-08-15 18:37:00,chat,,"Buenos días, La pantalla tiene una grieta al abrir la caja ¿Podéis ayudarme?",defective_product
+TKT-00897,2026-08-15 19:23:00,chat,,"Hola, Hice una devolución pero el reembolso no ha llegado Esto es frustrante. Llámame al [PHONE].",return_refund
+TKT-00433,2026-08-15 19:28:00,chat,,"Hola, Recibí el color equivocado y además está dañado Gracias.",defective_product
+TKT-00500,2026-08-15 19:53:00,email,ORD-607226,Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy. Llámame al [PHONE].,payment_charge
+TKT-00242,2026-08-15 20:58:00,chat,ORD-590325,URGENTE: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Mi correo es [EMAIL]. Llámame al [PHONE]. Lo necesito antes de mañana por un viaje.,delivery_delay
+TKT-00621,2026-08-15 21:13:00,email,,URGENTE: El pago falla aunque mi tarjeta funciona Gracias. Mi correo es [EMAIL].,payment_charge
+TKT-00203,2026-08-15 21:28:00,email,ORD-107013,Necesito cancelar y recuperar el dinero de [ORDER_ID] Gracias. Es la tercera vez que contacto y presentaré una reclamación.,return_refund
+TKT-00669,2026-08-15 23:31:00,web_form,,URGENTE: Falta una pieza y no puedo usar el producto Esto es frustrante.,defective_product
+TKT-00863,2026-08-16 01:43:00,email,ORD-198957,"Buenos días, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Esto es frustrante.",delivery_delay
+TKT-00900,2026-08-16 01:59:00,email,,El descuento no se aplicó y el importe cobrado es incorrecto ¿Podéis ayudarme? Mi correo es [EMAIL].,payment_charge
+TKT-00109,2026-08-16 02:05:00,email,,"Hola, Al acceder veo los datos de otro perfil ¿Podéis ayudarme?",account_access
+TKT-00037,2026-08-16 03:29:00,chat,ORD-566449,"Necesito ayuda: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].",delivery_delay
+TKT-00396,2026-08-16 04:01:00,web_form,,URGENTE: La compra aparece pendiente y no sé si repetir el pago Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].,payment_charge
+TKT-00508,2026-08-16 04:25:00,web_form,,El descuento no se aplicó y el importe cobrado es incorrecto ¿Podéis ayudarme? Mi correo es [EMAIL].,payment_charge
+TKT-00370,2026-08-16 05:04:00,email,,"Por favor, El pago falla aunque mi tarjeta funciona Espero respuesta hoy.",payment_charge
+TKT-00216,2026-08-16 05:15:00,web_form,,URGENTE: Hice una devolución pero el reembolso no ha llegado Mi correo es [EMAIL]. Llámame al [PHONE].,return_refund
+TKT-00577,2026-08-16 05:24:00,web_form,,"Buenos días, Cambió mi correo y ahora no puedo recuperar la cuenta Espero respuesta hoy.",account_access
+TKT-00573,2026-08-16 05:29:00,email,,"El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Llámame al [PHONE].",return_refund
+TKT-00537,2026-08-16 05:54:00,email,,"Hola, La talla no me sirve y quiero tramitar la devolución Espero respuesta hoy. Mi correo es [EMAIL].",return_refund
+TKT-00310,2026-08-16 06:31:00,email,,"Por favor, La entrega está retrasada y el seguimiento no cambia Esto es frustrante.",delivery_delay
+TKT-00006,2026-08-16 06:52:00,web_form,,"Necesito ayuda: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? ¿Podéis ayudarme? Llámame al [PHONE].",return_refund
+TKT-00746,2026-08-16 07:46:00,web_form,,Necesito ayuda: El descuento no se aplicó y el importe cobrado es incorrecto Gracias. Mi correo es [EMAIL]. Llámame al [PHONE].,payment_charge
+TKT-00058,2026-08-16 09:28:00,chat,,La compra aparece pendiente y no sé si repetir el pago Gracias. Llámame al [PHONE].,payment_charge
+TKT-00793,2026-08-16 11:08:00,chat,,"Por favor, El artículo hace un ruido extraño y parece defectuoso Esto es frustrante. Mi correo es [EMAIL].",defective_product
+TKT-00419,2026-08-16 11:14:00,email,ORD-763482,"Hola, Necesito cancelar y recuperar el dinero de [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL]. Llámame al [PHONE].",return_refund
+TKT-00499,2026-08-16 11:18:00,chat,,Necesito ayuda: Falta una pieza y no puedo usar el producto Espero respuesta hoy.,defective_product
+TKT-00008,2026-08-16 11:57:00,email,ORD-873352,"URGENTE: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo ¿Podéis ayudarme? Mi correo es [EMAIL].",delivery_delay
+TKT-00469,2026-08-16 12:04:00,email,,"Por favor, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Mi correo es [EMAIL].",return_refund
+TKT-00353,2026-08-16 13:37:00,email,,"Por favor, Al acceder veo los datos de otro perfil ¿Podéis ayudarme?",account_access
+TKT-00241,2026-08-16 15:20:00,email,ORD-367644,"Por favor, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Espero respuesta hoy.",return_refund
+TKT-00219,2026-08-16 15:56:00,email,,"Por favor, Mi cuenta está bloqueada desde esta mañana Esto es frustrante.",account_access
+TKT-00722,2026-08-16 16:51:00,chat,ORD-934205,"URGENTE: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Gracias.",delivery_delay
+TKT-00451,2026-08-16 17:10:00,web_form,,URGENTE: La pantalla tiene una grieta al abrir la caja Gracias. Llámame al [PHONE].,defective_product
+TKT-00168,2026-08-16 17:19:00,chat,,"Hola, La entrega está retrasada y el seguimiento no cambia Esto es frustrante.",delivery_delay
+TKT-00128,2026-08-16 18:25:00,email,,Necesito ayuda: Veo un cargo que no reconozco en mi cuenta Espero respuesta hoy. Mi correo es [EMAIL]. Llámame al [PHONE].,payment_charge
+TKT-00023,2026-08-16 19:05:00,web_form,,"Por favor, La pantalla tiene una grieta al abrir la caja Espero respuesta hoy. Mi correo es [EMAIL].",defective_product
+TKT-00758,2026-08-16 20:01:00,web_form,,URGENTE: Recibí el color equivocado y además está dañado,defective_product
+TKT-00595,2026-08-16 21:05:00,email,ORD-310861,URGENTE: El producto de [ORDER_ID] llegó roto y no funciona,defective_product
+TKT-00550,2026-08-16 21:08:00,web_form,,URGENTE: Hice una devolución pero el reembolso no ha llegado Espero respuesta hoy.,return_refund
+TKT-00800,2026-08-16 22:02:00,email,ORD-067194,URGENTE: El paquete [ORDER_ID] lleva varios días sin moverse Gracias. Mi correo es [EMAIL].,delivery_delay
+TKT-00032,2026-08-16 23:06:00,chat,,URGENTE: El descuento no se aplicó y el importe cobrado es incorrecto ¿Podéis ayudarme? Mi correo es [EMAIL]. Lo necesito antes de mañana por un viaje.,payment_charge
+TKT-00160,2026-08-16 23:38:00,web_form,ORD-230624,"Buenos días, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Esto es frustrante.",delivery_delay
+TKT-00833,2026-08-17 00:27:00,email,,URGENTE: Mi cuenta está bloqueada desde esta mañana Esto es frustrante. Mi correo es [EMAIL].,account_access
+TKT-00759,2026-08-17 01:04:00,email,ORD-854745,"Por favor, El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme?",delivery_delay
+TKT-00598,2026-08-17 01:28:00,email,ORD-920463,Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Espero respuesta hoy. Lo necesito antes de mañana por un viaje.,delivery_delay
+TKT-00855,2026-08-17 03:22:00,email,,URGENTE: Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme?,account_access
+TKT-00704,2026-08-17 04:20:00,web_form,,"Por favor, El artículo hace un ruido extraño y parece defectuoso ¿Podéis ayudarme? Es la tercera vez que contacto y presentaré una reclamación.",defective_product
+TKT-00422,2026-08-17 04:51:00,web_form,,"Buenos días, Falta una pieza y no puedo usar el producto Gracias.",defective_product
+TKT-00730,2026-08-17 05:52:00,chat,,La entrega está retrasada y el seguimiento no cambia Mi correo es [EMAIL].,delivery_delay
+TKT-00862,2026-08-17 05:54:00,web_form,ORD-284079,Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy.,payment_charge
+TKT-00660,2026-08-17 06:38:00,chat,,"Hola, La pantalla tiene una grieta al abrir la caja Espero respuesta hoy. Llámame al [PHONE].",defective_product
+TKT-00038,2026-08-17 07:10:00,web_form,,"Hola, No puedo iniciar sesión y el enlace de contraseña ha caducado ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].",account_access
+TKT-00162,2026-08-17 07:45:00,email,,URGENTE: No puedo iniciar sesión y el enlace de contraseña ha caducado Esto es frustrante.,account_access
+TKT-00561,2026-08-17 09:19:00,email,,"Buenos días, El artículo hace un ruido extraño y parece defectuoso Gracias.",defective_product
+TKT-00330,2026-08-17 12:18:00,chat,,"Necesito ayuda: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].",return_refund
+TKT-00139,2026-08-17 13:38:00,web_form,,"Buenos días, Hice una devolución pero el reembolso no ha llegado Mi correo es [EMAIL].",return_refund
+TKT-00655,2026-08-17 14:13:00,chat,,URGENTE: La pantalla tiene una grieta al abrir la caja Espero respuesta hoy.,defective_product
+TKT-00416,2026-08-17 14:41:00,web_form,,"Hola, Al acceder veo los datos de otro perfil Mi correo es [EMAIL]. Lo necesito antes de mañana por un viaje.",account_access
+TKT-00386,2026-08-17 15:31:00,chat,ORD-157199,URGENTE: El producto de [ORDER_ID] llegó roto y no funciona Gracias. Llámame al [PHONE].,defective_product
+TKT-00639,2026-08-17 16:31:00,email,,"Buenos días, El descuento no se aplicó y el importe cobrado es incorrecto Mi correo es [EMAIL].",payment_charge
+TKT-00332,2026-08-17 16:45:00,web_form,,"Hola, Hice una devolución pero el reembolso no ha llegado ¿Podéis ayudarme?",return_refund
+TKT-00787,2026-08-17 16:52:00,chat,,Falta una pieza y no puedo usar el producto Espero respuesta hoy. Mi correo es [EMAIL].,defective_product
+TKT-00357,2026-08-17 17:19:00,email,,El artículo hace un ruido extraño y parece defectuoso Gracias. Mi correo es [EMAIL]. Llámame al [PHONE].,defective_product
+TKT-00899,2026-08-17 17:41:00,web_form,,Necesito ayuda: La compra aparece pendiente y no sé si repetir el pago Gracias. Mi correo es [EMAIL].,payment_charge
+TKT-00604,2026-08-17 18:38:00,chat,,Necesito ayuda: Al acceder veo los datos de otro perfil Esto es frustrante. Es la tercera vez que contacto y presentaré una reclamación.,account_access
+TKT-00476,2026-08-17 18:39:00,chat,,"Buenos días, El descuento no se aplicó y el importe cobrado es incorrecto ¿Podéis ayudarme? Mi correo es [EMAIL].",payment_charge
+TKT-00196,2026-08-17 21:42:00,email,ORD-268042,"Por favor, Necesito cancelar y recuperar el dinero de [ORDER_ID] Esto es frustrante. Mi correo es [EMAIL].",return_refund
+TKT-00121,2026-08-17 22:14:00,chat,,"Hola, Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme? Mi correo es [EMAIL]. Lo necesito antes de mañana por un viaje.",account_access
+TKT-00012,2026-08-17 22:16:00,email,,"Hola, Al acceder veo los datos de otro perfil",account_access
+TKT-00737,2026-08-17 22:23:00,web_form,,"Hola, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Espero respuesta hoy.",return_refund
+TKT-00885,2026-08-17 22:34:00,email,,"Hola, Recibí el color equivocado y además está dañado Esto es frustrante. Llámame al [PHONE].",defective_product
+TKT-00047,2026-08-18 01:18:00,web_form,ORD-369566,"Por favor, El paquete [ORDER_ID] lleva varios días sin moverse Esto es frustrante.",delivery_delay
+TKT-00626,2026-08-18 01:49:00,email,,"Hola, La entrega está retrasada y el seguimiento no cambia Esto es frustrante.",delivery_delay
+TKT-00454,2026-08-18 01:52:00,web_form,,No recibo el código de verificación para entrar,account_access
+TKT-00465,2026-08-18 04:11:00,chat,ORD-312718,URGENTE: El producto de [ORDER_ID] llegó roto y no funciona Espero respuesta hoy. Mi correo es [EMAIL].,defective_product
+TKT-00393,2026-08-18 05:20:00,chat,,Necesito ayuda: La compra aparece pendiente y no sé si repetir el pago Espero respuesta hoy. Llámame al [PHONE].,payment_charge
+TKT-00090,2026-08-18 06:37:00,web_form,ORD-840361,Me habéis cobrado dos veces el pedido [ORDER_ID] ¿Podéis ayudarme?,payment_charge
+TKT-00463,2026-08-18 07:41:00,email,,Recibí el color equivocado y además está dañado Mi correo es [EMAIL]. Lo necesito antes de mañana por un viaje.,defective_product
+TKT-00765,2026-08-18 07:50:00,email,,No recibo el código de verificación para entrar ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].,account_access
+TKT-00786,2026-08-18 07:55:00,web_form,ORD-125163,Necesito ayuda: El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme?,delivery_delay
+TKT-00394,2026-08-18 09:32:00,email,,"Por favor, El descuento no se aplicó y el importe cobrado es incorrecto Espero respuesta hoy.",payment_charge
+TKT-00221,2026-08-18 10:29:00,web_form,,URGENTE: La entrega está retrasada y el seguimiento no cambia Esto es frustrante. Mi correo es [EMAIL].,delivery_delay
+TKT-00236,2026-08-18 10:43:00,web_form,,La compra aparece pendiente y no sé si repetir el pago Espero respuesta hoy.,payment_charge
+TKT-00112,2026-08-18 10:46:00,email,,"Buenos días, No puedo iniciar sesión y el enlace de contraseña ha caducado Gracias. Mi correo es [EMAIL].",account_access
+TKT-00797,2026-08-18 11:12:00,email,ORD-700754,"Necesito ayuda: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Gracias.",delivery_delay
+TKT-00150,2026-08-18 11:33:00,email,ORD-809617,"Buenos días, El paquete [ORDER_ID] lleva varios días sin moverse Mi correo es [EMAIL]. Llámame al [PHONE].",delivery_delay
+TKT-00569,2026-08-18 12:32:00,chat,,URGENTE: La pantalla tiene una grieta al abrir la caja Espero respuesta hoy. Mi correo es [EMAIL].,defective_product
+TKT-00268,2026-08-18 12:52:00,email,,No puedo iniciar sesión y el enlace de contraseña ha caducado Esto es frustrante.,account_access
+TKT-00540,2026-08-18 13:14:00,chat,ORD-548287,"Hola, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias.",delivery_delay
+TKT-00686,2026-08-18 13:19:00,email,ORD-657667,"Por favor, El producto de [ORDER_ID] llegó roto y no funciona Espero respuesta hoy. Mi correo es [EMAIL]. Llámame al [PHONE].",defective_product
+TKT-00854,2026-08-18 13:27:00,web_form,,Necesito ayuda: Falta una pieza y no puedo usar el producto ¿Podéis ayudarme? Mi correo es [EMAIL].,defective_product
+TKT-00582,2026-08-18 13:37:00,chat,,La talla no me sirve y quiero tramitar la devolución Esto es frustrante.,return_refund
+TKT-00327,2026-08-18 14:48:00,web_form,,URGENTE: Mi cuenta está bloqueada desde esta mañana ¿Podéis ayudarme? Es la tercera vez que contacto y presentaré una reclamación.,account_access
+TKT-00041,2026-08-18 15:54:00,email,ORD-900264,Necesito cancelar y recuperar el dinero de [ORDER_ID] Esto es frustrante.,return_refund
+TKT-00050,2026-08-18 16:37:00,email,ORD-923226,"Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Gracias. Mi correo es [EMAIL].",delivery_delay
+TKT-00211,2026-08-18 17:15:00,chat,,Necesito ayuda: Recibí el color equivocado y además está dañado Esto es frustrante.,defective_product
+TKT-00301,2026-08-18 18:15:00,email,ORD-292160,URGENTE: Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL].,payment_charge
+TKT-00296,2026-08-18 18:22:00,web_form,,Recibí el color equivocado y además está dañado Mi correo es [EMAIL].,defective_product
+TKT-00608,2026-08-18 18:54:00,web_form,,El pago falla aunque mi tarjeta funciona Espero respuesta hoy.,payment_charge
+TKT-00587,2026-08-18 21:47:00,web_form,,"Por favor, La talla no me sirve y quiero tramitar la devolución Espero respuesta hoy. Mi correo es [EMAIL].",return_refund
+TKT-00653,2026-08-18 22:48:00,email,,"Buenos días, Hice una devolución pero el reembolso no ha llegado Esto es frustrante.",return_refund
+TKT-00794,2026-08-19 04:50:00,web_form,,"Hola, Mi cuenta está bloqueada desde esta mañana Esto es frustrante. Es la tercera vez que contacto y presentaré una reclamación.",account_access
+TKT-00081,2026-08-19 06:07:00,web_form,ORD-797537,"URGENTE: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo",delivery_delay
+TKT-00549,2026-08-19 08:33:00,web_form,,"Buenos días, Al acceder veo los datos de otro perfil Espero respuesta hoy.",account_access
+TKT-00131,2026-08-19 10:49:00,web_form,,"Buenos días, La pantalla tiene una grieta al abrir la caja Gracias. Mi correo es [EMAIL].",defective_product
+TKT-00441,2026-08-19 11:57:00,web_form,ORD-544593,"Buenos días, El producto de [ORDER_ID] llegó roto y no funciona Esto es frustrante.",defective_product
+TKT-00158,2026-08-19 14:38:00,web_form,,"Por favor, El artículo hace un ruido extraño y parece defectuoso ¿Podéis ayudarme? Mi correo es [EMAIL].",defective_product
+TKT-00488,2026-08-19 15:29:00,web_form,ORD-606418,"Por favor, El producto de [ORDER_ID] llegó roto y no funciona ¿Podéis ayudarme? Mi correo es [EMAIL].",defective_product
+TKT-00739,2026-08-19 16:55:00,web_form,,"El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Espero respuesta hoy.",return_refund
+TKT-00683,2026-08-19 16:58:00,email,ORD-825942,Necesito ayuda: El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme? Es la tercera vez que contacto y presentaré una reclamación.,delivery_delay
+TKT-00073,2026-08-19 20:59:00,chat,,URGENTE: La entrega está retrasada y el seguimiento no cambia Esto es frustrante.,delivery_delay
+TKT-00290,2026-08-19 22:12:00,email,,"El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Gracias.",return_refund
+TKT-00519,2026-08-19 23:00:00,chat,ORD-685831,"Buenos días, El paquete [ORDER_ID] lleva varios días sin moverse Espero respuesta hoy.",delivery_delay
+TKT-00715,2026-08-20 00:46:00,web_form,,Necesito ayuda: La compra aparece pendiente y no sé si repetir el pago Espero respuesta hoy.,payment_charge
+TKT-00334,2026-08-20 00:55:00,web_form,,"Hola, Al acceder veo los datos de otro perfil ¿Podéis ayudarme? Mi correo es [EMAIL].",account_access
+TKT-00461,2026-08-20 01:10:00,email,,URGENTE: El pago falla aunque mi tarjeta funciona Gracias. Mi correo es [EMAIL].,payment_charge
+TKT-00421,2026-08-20 01:15:00,web_form,,"Hola, La compra aparece pendiente y no sé si repetir el pago Espero respuesta hoy. Mi correo es [EMAIL].",payment_charge
+TKT-00446,2026-08-20 01:52:00,web_form,ORD-300139,Necesito cancelar y recuperar el dinero de [ORDER_ID] Espero respuesta hoy.,return_refund
+TKT-00471,2026-08-20 02:00:00,web_form,,La pantalla tiene una grieta al abrir la caja Espero respuesta hoy. Llámame al [PHONE].,defective_product
+TKT-00562,2026-08-20 03:02:00,web_form,,URGENTE: Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme? Es la tercera vez que contacto y presentaré una reclamación.,account_access
+TKT-00555,2026-08-20 04:49:00,web_form,ORD-985552,"Hola, Me habéis cobrado dos veces el pedido [ORDER_ID] Gracias. Mi correo es [EMAIL].",payment_charge
+TKT-00584,2026-08-20 05:38:00,web_form,,La talla no me sirve y quiero tramitar la devolución Esto es frustrante.,return_refund
+TKT-00707,2026-08-20 05:58:00,web_form,ORD-284958,Necesito ayuda: El producto de [ORDER_ID] llegó roto y no funciona,defective_product
+TKT-00565,2026-08-20 06:29:00,chat,ORD-724097,Necesito ayuda: Necesito cancelar y recuperar el dinero de [ORDER_ID] Esto es frustrante.,return_refund
+TKT-00487,2026-08-20 07:24:00,web_form,,"URGENTE: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Esto es frustrante.",return_refund
+TKT-00417,2026-08-20 10:06:00,chat,,La pantalla tiene una grieta al abrir la caja,defective_product
+TKT-00767,2026-08-20 10:17:00,email,ORD-347358,Necesito ayuda: Me habéis cobrado dos veces el pedido [ORDER_ID],payment_charge
+TKT-00161,2026-08-20 10:26:00,email,ORD-029740,URGENTE: El producto de [ORDER_ID] llegó roto y no funciona Esto es frustrante. Llámame al [PHONE].,defective_product
+TKT-00438,2026-08-20 11:16:00,email,,"Por favor, El descuento no se aplicó y el importe cobrado es incorrecto Llámame al [PHONE].",payment_charge
+TKT-00501,2026-08-20 12:17:00,web_form,,Hice una devolución pero el reembolso no ha llegado ¿Podéis ayudarme?,return_refund
+TKT-00258,2026-08-20 12:39:00,chat,,"Buenos días, La pantalla tiene una grieta al abrir la caja",defective_product
+TKT-00276,2026-08-20 12:43:00,email,,"URGENTE: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Gracias. Lo necesito antes de mañana por un viaje.",return_refund
+TKT-00603,2026-08-20 15:18:00,email,,"Buenos días, Veo un cargo que no reconozco en mi cuenta Espero respuesta hoy. Lo necesito antes de mañana por un viaje.",payment_charge
+TKT-00068,2026-08-20 15:37:00,email,ORD-716294,El paquete [ORDER_ID] lleva varios días sin moverse,delivery_delay
+TKT-00218,2026-08-20 16:05:00,email,,"Buenos días, No puedo iniciar sesión y el enlace de contraseña ha caducado Llámame al [PHONE].",account_access
+TKT-00836,2026-08-20 16:16:00,email,,Recibí el color equivocado y además está dañado Gracias.,defective_product
+TKT-00837,2026-08-20 16:32:00,web_form,,"Hola, El descuento no se aplicó y el importe cobrado es incorrecto Gracias.",payment_charge
+TKT-00615,2026-08-20 16:59:00,chat,ORD-452807,URGENTE: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Esto es frustrante.,delivery_delay
+TKT-00414,2026-08-20 19:14:00,chat,,Necesito ayuda: Hice una devolución pero el reembolso no ha llegado,return_refund
+TKT-00117,2026-08-20 19:27:00,email,,Necesito ayuda: Recibí el color equivocado y además está dañado Esto es frustrante. Mi correo es [EMAIL].,defective_product
+TKT-00423,2026-08-20 20:25:00,email,,URGENTE: Falta una pieza y no puedo usar el producto Espero respuesta hoy. Mi correo es [EMAIL].,defective_product
+TKT-00470,2026-08-20 20:34:00,email,ORD-227006,Me habéis cobrado dos veces el pedido [ORDER_ID] ¿Podéis ayudarme? Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.,payment_charge
+TKT-00151,2026-08-20 21:12:00,chat,,URGENTE: La pantalla tiene una grieta al abrir la caja Gracias.,defective_product
+TKT-00662,2026-08-20 21:18:00,web_form,ORD-896470,URGENTE: Necesito cancelar y recuperar el dinero de [ORDER_ID] Espero respuesta hoy.,return_refund
+TKT-00270,2026-08-20 21:38:00,chat,,"Buenos días, El artículo hace un ruido extraño y parece defectuoso ¿Podéis ayudarme? Mi correo es [EMAIL].",defective_product
+TKT-00698,2026-08-20 23:55:00,email,ORD-014851,Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias. Llámame al [PHONE].,delivery_delay
+TKT-00407,2026-08-21 01:06:00,web_form,,"Buenos días, El artículo hace un ruido extraño y parece defectuoso Esto es frustrante. Es la tercera vez que contacto y presentaré una reclamación.",defective_product
+TKT-00718,2026-08-21 01:29:00,web_form,,Necesito ayuda: El descuento no se aplicó y el importe cobrado es incorrecto,payment_charge
+TKT-00102,2026-08-21 01:52:00,email,ORD-382590,"Por favor, El producto de [ORDER_ID] llegó roto y no funciona Esto es frustrante. Mi correo es [EMAIL].",defective_product
+TKT-00895,2026-08-21 02:07:00,web_form,ORD-459747,Necesito ayuda: Me habéis cobrado dos veces el pedido [ORDER_ID] Gracias. Llámame al [PHONE].,payment_charge
+TKT-00512,2026-08-21 02:26:00,email,,URGENTE: Al acceder veo los datos de otro perfil Gracias.,account_access
+TKT-00542,2026-08-21 03:17:00,web_form,,La talla no me sirve y quiero tramitar la devolución,return_refund
+TKT-00191,2026-08-21 04:12:00,web_form,,No recibo el código de verificación para entrar Espero respuesta hoy. Es la tercera vez que contacto y presentaré una reclamación.,account_access
+TKT-00636,2026-08-21 04:18:00,chat,,"Hola, Mi cuenta está bloqueada desde esta mañana Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].",account_access
+TKT-00788,2026-08-21 04:41:00,web_form,,Necesito ayuda: No recibo el código de verificación para entrar Gracias.,account_access
+TKT-00734,2026-08-21 05:06:00,email,,"Hola, La pantalla tiene una grieta al abrir la caja Gracias.",defective_product
+TKT-00418,2026-08-21 05:17:00,email,ORD-904949,Quiero devolver [ORDER_ID] y no encuentro la etiqueta Gracias. Llámame al [PHONE].,return_refund
+TKT-00078,2026-08-21 05:30:00,email,,La talla no me sirve y quiero tramitar la devolución Esto es frustrante.,return_refund
+TKT-00610,2026-08-21 05:50:00,web_form,,"Hola, Cambió mi correo y ahora no puedo recuperar la cuenta Espero respuesta hoy.",account_access
+TKT-00703,2026-08-21 07:43:00,web_form,,"Por favor, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Espero respuesta hoy.",return_refund
+TKT-00884,2026-08-21 07:51:00,chat,ORD-329636,"URGENTE: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Gracias. Es la tercera vez que contacto y presentaré una reclamación.",delivery_delay
+TKT-00154,2026-08-21 08:54:00,chat,,Cambió mi correo y ahora no puedo recuperar la cuenta,account_access
+TKT-00546,2026-08-21 09:48:00,web_form,,"Hola, No puedo iniciar sesión y el enlace de contraseña ha caducado Llámame al [PHONE].",account_access
+TKT-00436,2026-08-21 09:55:00,web_form,,"Buenos días, Veo un cargo que no reconozco en mi cuenta Esto es frustrante. Mi correo es [EMAIL].",payment_charge
+TKT-00206,2026-08-21 10:55:00,web_form,,"Hola, Al acceder veo los datos de otro perfil Llámame al [PHONE].",account_access
+TKT-00828,2026-08-21 11:01:00,chat,,URGENTE: Al acceder veo los datos de otro perfil ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].,account_access
+TKT-00798,2026-08-21 11:31:00,email,,Veo un cargo que no reconozco en mi cuenta Esto es frustrante.,payment_charge
+TKT-00054,2026-08-21 12:11:00,email,ORD-274649,El producto de [ORDER_ID] llegó roto y no funciona ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].,defective_product
+TKT-00504,2026-08-21 12:59:00,email,,"Hola, No puedo iniciar sesión y el enlace de contraseña ha caducado Espero respuesta hoy. Llámame al [PHONE].",account_access
+TKT-00224,2026-08-21 13:35:00,web_form,,Necesito ayuda: La entrega está retrasada y el seguimiento no cambia Esto es frustrante.,delivery_delay
+TKT-00085,2026-08-21 13:42:00,chat,,No recibo el código de verificación para entrar Llámame al [PHONE].,account_access
+TKT-00663,2026-08-21 15:48:00,email,ORD-950062,"Hola, Necesito cancelar y recuperar el dinero de [ORDER_ID] Espero respuesta hoy. Llámame al [PHONE].",return_refund
+TKT-00633,2026-08-21 16:48:00,web_form,ORD-831751,URGENTE: El producto de [ORDER_ID] llegó roto y no funciona ¿Podéis ayudarme? Mi correo es [EMAIL].,defective_product
+TKT-00841,2026-08-21 19:04:00,email,ORD-508601,"Necesito ayuda: Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Esto es frustrante.",delivery_delay
+TKT-00858,2026-08-21 19:36:00,web_form,ORD-474793,Necesito ayuda: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias. Mi correo es [EMAIL]. Llámame al [PHONE].,delivery_delay
+TKT-00572,2026-08-21 22:40:00,web_form,ORD-705860,Necesito ayuda: Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy.,payment_charge
+TKT-00699,2026-08-21 22:48:00,web_form,ORD-466829,URGENTE: Necesito cancelar y recuperar el dinero de [ORDER_ID],return_refund
+TKT-00443,2026-08-21 22:59:00,web_form,,Falta una pieza y no puedo usar el producto Gracias. Mi correo es [EMAIL].,defective_product
+TKT-00118,2026-08-22 01:11:00,web_form,,URGENTE: El artículo hace un ruido extraño y parece defectuoso Mi correo es [EMAIL].,defective_product
+TKT-00820,2026-08-22 02:19:00,chat,,"Buenos días, Veo un cargo que no reconozco en mi cuenta Espero respuesta hoy. Llámame al [PHONE].",payment_charge
+TKT-00601,2026-08-22 02:23:00,email,ORD-931718,URGENTE: Necesito cancelar y recuperar el dinero de [ORDER_ID] Esto es frustrante.,return_refund
+TKT-00823,2026-08-22 02:34:00,web_form,,URGENTE: La talla no me sirve y quiero tramitar la devolución Espero respuesta hoy. Mi correo es [EMAIL].,return_refund
+TKT-00285,2026-08-22 03:07:00,web_form,,"Por favor, Veo un cargo que no reconozco en mi cuenta Gracias. Llámame al [PHONE].",payment_charge
+TKT-00796,2026-08-22 03:35:00,web_form,ORD-463925,"Buenos días, Me habéis cobrado dos veces el pedido [ORDER_ID] Esto es frustrante.",payment_charge
+TKT-00545,2026-08-22 04:22:00,email,,"Hola, El artículo hace un ruido extraño y parece defectuoso Esto es frustrante. Llámame al [PHONE]. Lo necesito antes de mañana por un viaje.",defective_product
+TKT-00431,2026-08-22 04:26:00,chat,,Necesito ayuda: La compra aparece pendiente y no sé si repetir el pago Mi correo es [EMAIL].,payment_charge
+TKT-00535,2026-08-22 04:29:00,web_form,,"Buenos días, Mi cuenta está bloqueada desde esta mañana Gracias.",account_access
+TKT-00763,2026-08-22 07:00:00,chat,,"Buenos días, La entrega está retrasada y el seguimiento no cambia Esto es frustrante. Llámame al [PHONE].",delivery_delay
+TKT-00486,2026-08-22 08:45:00,email,ORD-400627,URGENTE: El producto de [ORDER_ID] llegó roto y no funciona Gracias.,defective_product
+TKT-00125,2026-08-22 08:48:00,web_form,,"Por favor, El pago falla aunque mi tarjeta funciona Mi correo es [EMAIL].",payment_charge
+TKT-00650,2026-08-22 09:12:00,web_form,,URGENTE: Veo un cargo que no reconozco en mi cuenta Gracias.,payment_charge
+TKT-00479,2026-08-22 10:26:00,email,ORD-668176,URGENTE: Me habéis cobrado dos veces el pedido [ORDER_ID] ¿Podéis ayudarme?,payment_charge
+TKT-00403,2026-08-22 12:40:00,web_form,ORD-972258,"Por favor, Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy.",payment_charge
+TKT-00227,2026-08-22 12:51:00,email,,URGENTE: La pantalla tiene una grieta al abrir la caja Llámame al [PHONE].,defective_product
+TKT-00397,2026-08-22 12:56:00,web_form,ORD-399592,"Buenos días, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] ¿Podéis ayudarme? Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación. Lo necesito antes de mañana por un viaje.",delivery_delay
+TKT-00189,2026-08-22 14:50:00,email,ORD-781276,"Hola, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Espero respuesta hoy. Llámame al [PHONE].",return_refund
+TKT-00034,2026-08-22 14:54:00,web_form,ORD-899938,Necesito ayuda: Me habéis cobrado dos veces el pedido [ORDER_ID] Gracias.,payment_charge
+TKT-00282,2026-08-22 17:05:00,web_form,,"Por favor, Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].",account_access
+TKT-00190,2026-08-22 17:29:00,email,,Necesito ayuda: Al acceder veo los datos de otro perfil Esto es frustrante.,account_access
+TKT-00277,2026-08-22 18:43:00,web_form,,"Buenos días, Mi cuenta está bloqueada desde esta mañana Gracias.",account_access
+TKT-00657,2026-08-22 18:49:00,email,,"Buenos días, Falta una pieza y no puedo usar el producto Gracias.",defective_product
+TKT-00741,2026-08-22 19:21:00,web_form,,"Buenos días, El descuento no se aplicó y el importe cobrado es incorrecto Gracias. Llámame al [PHONE]. Es la tercera vez que contacto y presentaré una reclamación.",payment_charge
+TKT-00114,2026-08-22 19:30:00,email,,"Hola, Cambió mi correo y ahora no puedo recuperar la cuenta",account_access
+TKT-00399,2026-08-22 20:14:00,chat,ORD-364712,URGENTE: El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].,delivery_delay
+TKT-00772,2026-08-22 21:09:00,web_form,,"Hola, La talla no me sirve y quiero tramitar la devolución ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].",return_refund
+TKT-00405,2026-08-22 21:30:00,email,ORD-723184,Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece ¿Podéis ayudarme? Llámame al [PHONE]. Lo necesito antes de mañana por un viaje.,delivery_delay
+TKT-00706,2026-08-22 22:08:00,web_form,,La talla no me sirve y quiero tramitar la devolución Esto es frustrante.,return_refund
+TKT-00790,2026-08-22 22:29:00,email,,"Buenos días, Mi cuenta está bloqueada desde esta mañana Esto es frustrante. Llámame al [PHONE].",account_access
+TKT-00708,2026-08-22 22:54:00,email,ORD-770286,URGENTE: El producto de [ORDER_ID] llegó roto y no funciona Gracias.,defective_product
+TKT-00642,2026-08-22 23:23:00,chat,,"Hola, Cambió mi correo y ahora no puedo recuperar la cuenta",account_access
+TKT-00040,2026-08-23 01:21:00,chat,,"Por favor, Hice una devolución pero el reembolso no ha llegado",return_refund
+TKT-00865,2026-08-23 03:26:00,email,,Necesito ayuda: Veo un cargo que no reconozco en mi cuenta Gracias.,payment_charge
+TKT-00851,2026-08-23 03:45:00,web_form,,URGENTE: Hice una devolución pero el reembolso no ha llegado Mi correo es [EMAIL].,return_refund
+TKT-00152,2026-08-23 03:45:00,email,,URGENTE: El pago falla aunque mi tarjeta funciona Esto es frustrante.,payment_charge
+TKT-00877,2026-08-23 05:05:00,chat,,"Por favor, Recibí el color equivocado y además está dañado",defective_product
+TKT-00415,2026-08-23 05:15:00,email,,"Buenos días, Mi cuenta está bloqueada desde esta mañana Esto es frustrante.",account_access
+TKT-00182,2026-08-23 05:30:00,email,ORD-740934,URGENTE: El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme? Mi correo es [EMAIL].,delivery_delay
+TKT-00312,2026-08-23 06:27:00,web_form,ORD-278589,"Hola, Necesito cancelar y recuperar el dinero de [ORDER_ID] Espero respuesta hoy.",return_refund
+TKT-00022,2026-08-23 06:46:00,chat,ORD-918602,Necesito ayuda: El paquete [ORDER_ID] lleva varios días sin moverse,delivery_delay
+TKT-00001,2026-08-23 08:34:00,web_form,,"Por favor, No puedo iniciar sesión y el enlace de contraseña ha caducado ¿Podéis ayudarme?",account_access
+TKT-00244,2026-08-23 08:47:00,web_form,,Necesito ayuda: El pago falla aunque mi tarjeta funciona Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].,payment_charge
+TKT-00333,2026-08-23 09:12:00,web_form,,Necesito ayuda: Recibí el color equivocado y además está dañado Espero respuesta hoy.,defective_product
+TKT-00239,2026-08-23 09:49:00,chat,ORD-351055,El producto de [ORDER_ID] llegó roto y no funciona Esto es frustrante. Mi correo es [EMAIL].,defective_product
+TKT-00751,2026-08-23 09:49:00,web_form,ORD-228076,"Buenos días, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Espero respuesta hoy. Mi correo es [EMAIL]. Llámame al [PHONE].",delivery_delay
+TKT-00575,2026-08-23 10:27:00,chat,,"Por favor, La compra aparece pendiente y no sé si repetir el pago Esto es frustrante.",payment_charge
+TKT-00138,2026-08-23 12:42:00,web_form,,Cambió mi correo y ahora no puedo recuperar la cuenta Espero respuesta hoy.,account_access
+TKT-00042,2026-08-23 13:46:00,email,,"URGENTE: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Gracias. Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.",return_refund
+TKT-00311,2026-08-23 15:14:00,email,,La talla no me sirve y quiero tramitar la devolución Espero respuesta hoy. Es la tercera vez que contacto y presentaré una reclamación.,return_refund
+TKT-00063,2026-08-23 15:20:00,email,,"Por favor, Mi cuenta está bloqueada desde esta mañana Esto es frustrante. Llámame al [PHONE].",account_access
+TKT-00873,2026-08-23 15:35:00,web_form,,Necesito ayuda: Cambió mi correo y ahora no puedo recuperar la cuenta Espero respuesta hoy.,account_access
+TKT-00207,2026-08-23 16:48:00,chat,ORD-945322,Necesito ayuda: El paquete [ORDER_ID] lleva varios días sin moverse Esto es frustrante.,delivery_delay
+TKT-00729,2026-08-23 19:00:00,email,,URGENTE: El descuento no se aplicó y el importe cobrado es incorrecto Mi correo es [EMAIL]. Lo necesito antes de mañana por un viaje.,payment_charge
+TKT-00717,2026-08-23 19:35:00,web_form,,Necesito ayuda: Al acceder veo los datos de otro perfil Gracias.,account_access
+TKT-00284,2026-08-23 19:38:00,web_form,,URGENTE: Mi cuenta está bloqueada desde esta mañana Espero respuesta hoy.,account_access
+TKT-00086,2026-08-23 20:21:00,web_form,ORD-995247,URGENTE: Quiero devolver [ORDER_ID] y no encuentro la etiqueta,return_refund
+TKT-00711,2026-08-23 21:19:00,chat,,"Buenos días, Recibí el color equivocado y además está dañado Gracias.",defective_product
+TKT-00261,2026-08-23 23:05:00,email,,"Hola, Recibí el color equivocado y además está dañado Gracias.",defective_product
+TKT-00358,2026-08-24 00:10:00,email,,URGENTE: Al acceder veo los datos de otro perfil,account_access
+TKT-00036,2026-08-24 00:24:00,email,ORD-225403,"Por favor, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Mi correo es [EMAIL]. Llámame al [PHONE].",delivery_delay
+TKT-00870,2026-08-24 01:41:00,chat,ORD-484458,"Buenos días, El producto de [ORDER_ID] llegó roto y no funciona",defective_product
+TKT-00530,2026-08-24 03:04:00,web_form,,URGENTE: Mi cuenta está bloqueada desde esta mañana Mi correo es [EMAIL].,account_access
+TKT-00472,2026-08-24 04:02:00,email,,"Por favor, El descuento no se aplicó y el importe cobrado es incorrecto ¿Podéis ayudarme?",payment_charge
+TKT-00383,2026-08-24 05:00:00,chat,ORD-127747,Necesito ayuda: Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Esto es frustrante.,delivery_delay
+TKT-00256,2026-08-24 05:56:00,web_form,,"Buenos días, La entrega está retrasada y el seguimiento no cambia ¿Podéis ayudarme? Mi correo es [EMAIL].",delivery_delay
+TKT-00681,2026-08-24 08:03:00,web_form,,"Buenos días, Hice una devolución pero el reembolso no ha llegado Gracias.",return_refund
+TKT-00145,2026-08-24 08:35:00,chat,,"Hola, El descuento no se aplicó y el importe cobrado es incorrecto Gracias. Mi correo es [EMAIL].",payment_charge
+TKT-00781,2026-08-24 08:51:00,email,,"Hola, Mi cuenta está bloqueada desde esta mañana Gracias.",account_access
+TKT-00875,2026-08-24 10:48:00,email,ORD-700434,"Hola, Me habéis cobrado dos veces el pedido [ORDER_ID] Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].",payment_charge
+TKT-00680,2026-08-24 11:20:00,web_form,,URGENTE: La talla no me sirve y quiero tramitar la devolución,return_refund
+TKT-00539,2026-08-24 12:21:00,email,,"Buenos días, La talla no me sirve y quiero tramitar la devolución Gracias.",return_refund
+TKT-00849,2026-08-24 14:26:00,chat,,"Buenos días, La entrega está retrasada y el seguimiento no cambia",delivery_delay
+TKT-00237,2026-08-24 14:39:00,email,,"Buenos días, Recibí el color equivocado y además está dañado ¿Podéis ayudarme? Mi correo es [EMAIL].",defective_product
+TKT-00478,2026-08-24 15:49:00,chat,,La compra aparece pendiente y no sé si repetir el pago,payment_charge
+TKT-00506,2026-08-24 15:56:00,web_form,,Mi cuenta está bloqueada desde esta mañana Llámame al [PHONE].,account_access
+TKT-00225,2026-08-24 16:08:00,email,,"Por favor, No recibo el código de verificación para entrar Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.",account_access
+TKT-00735,2026-08-24 17:34:00,web_form,,"URGENTE: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Espero respuesta hoy. Mi correo es [EMAIL].",return_refund
+TKT-00280,2026-08-24 17:41:00,web_form,,"Hola, Mi cuenta está bloqueada desde esta mañana ¿Podéis ayudarme?",account_access
+TKT-00437,2026-08-24 19:20:00,chat,ORD-996788,"Hola, Quiero devolver [ORDER_ID] y no encuentro la etiqueta",return_refund
+TKT-00814,2026-08-24 19:21:00,email,ORD-920218,"Por favor, Me habéis cobrado dos veces el pedido [ORDER_ID] ¿Podéis ayudarme?",payment_charge
+TKT-00477,2026-08-24 20:28:00,email,ORD-333090,"Buenos días, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Gracias.",delivery_delay
+TKT-00829,2026-08-24 22:14:00,email,,"Buenos días, La pantalla tiene una grieta al abrir la caja Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].",defective_product
+TKT-00363,2026-08-24 22:21:00,web_form,ORD-558603,Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Espero respuesta hoy.,delivery_delay
+TKT-00628,2026-08-24 22:22:00,email,,"Hola, La pantalla tiene una grieta al abrir la caja Espero respuesta hoy. Llámame al [PHONE].",defective_product
+TKT-00714,2026-08-24 23:27:00,chat,,Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme?,account_access
+TKT-00609,2026-08-24 23:55:00,web_form,,"Buenos días, Al acceder veo los datos de otro perfil Gracias.",account_access
+TKT-00169,2026-08-25 00:06:00,web_form,ORD-030706,Quiero devolver [ORDER_ID] y no encuentro la etiqueta ¿Podéis ayudarme? Mi correo es [EMAIL]. Llámame al [PHONE].,return_refund
+TKT-00806,2026-08-25 00:48:00,chat,,"Necesito ayuda: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? ¿Podéis ayudarme? Mi correo es [EMAIL].",return_refund
+TKT-00709,2026-08-25 02:54:00,chat,ORD-635019,Quiero devolver [ORDER_ID] y no encuentro la etiqueta Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE]. Es la tercera vez que contacto y presentaré una reclamación.,return_refund
+TKT-00760,2026-08-25 03:28:00,web_form,,"Buenos días, La talla no me sirve y quiero tramitar la devolución Espero respuesta hoy. Mi correo es [EMAIL].",return_refund
+TKT-00194,2026-08-25 04:39:00,email,ORD-474905,"Hola, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias. Mi correo es [EMAIL].",delivery_delay
+TKT-00103,2026-08-25 05:03:00,web_form,ORD-807969,El producto de [ORDER_ID] llegó roto y no funciona Espero respuesta hoy.,defective_product
+TKT-00401,2026-08-25 06:27:00,email,,URGENTE: El artículo hace un ruido extraño y parece defectuoso Gracias.,defective_product
+TKT-00826,2026-08-25 07:03:00,email,,"Hola, El artículo hace un ruido extraño y parece defectuoso Esto es frustrante.",defective_product
+TKT-00095,2026-08-25 07:54:00,chat,,"Hola, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Llámame al [PHONE].",return_refund
+TKT-00052,2026-08-25 08:23:00,web_form,ORD-447421,"Buenos días, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias. Mi correo es [EMAIL].",delivery_delay
+TKT-00209,2026-08-25 08:39:00,web_form,,"Buenos días, Hice una devolución pero el reembolso no ha llegado Mi correo es [EMAIL].",return_refund
+TKT-00430,2026-08-25 09:04:00,web_form,,Al acceder veo los datos de otro perfil Gracias. Mi correo es [EMAIL].,account_access
+TKT-00685,2026-08-25 11:48:00,web_form,,"Hola, La entrega está retrasada y el seguimiento no cambia ¿Podéis ayudarme? Mi correo es [EMAIL].",delivery_delay
+TKT-00391,2026-08-25 12:21:00,email,,URGENTE: No puedo iniciar sesión y el enlace de contraseña ha caducado Espero respuesta hoy. Mi correo es [EMAIL].,account_access
+TKT-00622,2026-08-25 14:03:00,chat,ORD-979423,URGENTE: Quiero devolver [ORDER_ID] y no encuentro la etiqueta,return_refund
+TKT-00809,2026-08-25 14:14:00,web_form,,"Buenos días, Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme?",account_access
+TKT-00093,2026-08-25 14:21:00,email,,El artículo hace un ruido extraño y parece defectuoso ¿Podéis ayudarme? Es la tercera vez que contacto y presentaré una reclamación.,defective_product
+TKT-00757,2026-08-25 15:11:00,email,,El pago falla aunque mi tarjeta funciona ¿Podéis ayudarme? Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.,payment_charge
+TKT-00592,2026-08-25 16:35:00,web_form,,Necesito ayuda: Al acceder veo los datos de otro perfil Es la tercera vez que contacto y presentaré una reclamación. Lo necesito antes de mañana por un viaje.,account_access
+TKT-00007,2026-08-25 17:03:00,chat,ORD-372144,Necesito ayuda: El paquete [ORDER_ID] lleva varios días sin moverse,delivery_delay
+TKT-00214,2026-08-25 19:57:00,web_form,,Falta una pieza y no puedo usar el producto ¿Podéis ayudarme? Mi correo es [EMAIL].,defective_product
+TKT-00705,2026-08-25 20:00:00,email,ORD-010406,Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias.,delivery_delay
+TKT-00445,2026-08-25 21:21:00,email,ORD-367195,"Hola, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Es la tercera vez que contacto y presentaré una reclamación.",return_refund
+TKT-00392,2026-08-25 21:30:00,web_form,ORD-660603,"Buenos días, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Gracias.",return_refund
+TKT-00779,2026-08-25 21:51:00,chat,ORD-189235,El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme?,delivery_delay
+TKT-00120,2026-08-25 23:20:00,web_form,,La entrega está retrasada y el seguimiento no cambia ¿Podéis ayudarme? Es la tercera vez que contacto y presentaré una reclamación.,delivery_delay
+TKT-00594,2026-08-26 01:19:00,email,,Necesito ayuda: La pantalla tiene una grieta al abrir la caja Espero respuesta hoy.,defective_product
+TKT-00740,2026-08-26 02:51:00,email,,"Por favor, Hice una devolución pero el reembolso no ha llegado Esto es frustrante. Llámame al [PHONE].",return_refund
+TKT-00743,2026-08-26 04:17:00,email,,"Por favor, Falta una pieza y no puedo usar el producto Espero respuesta hoy.",defective_product
+TKT-00893,2026-08-26 04:23:00,web_form,,URGENTE: Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme?,account_access
+TKT-00375,2026-08-26 04:39:00,email,,Mi cuenta está bloqueada desde esta mañana ¿Podéis ayudarme?,account_access
+TKT-00867,2026-08-26 06:46:00,email,ORD-232501,"Hola, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] ¿Podéis ayudarme?",delivery_delay
+TKT-00494,2026-08-26 06:55:00,email,,"Por favor, Recibí el color equivocado y además está dañado Gracias. Llámame al [PHONE].",defective_product
+TKT-00115,2026-08-26 08:43:00,email,,"Por favor, Mi cuenta está bloqueada desde esta mañana Mi correo es [EMAIL].",account_access
+TKT-00674,2026-08-26 09:08:00,web_form,,URGENTE: Veo un cargo que no reconozco en mi cuenta Gracias. Mi correo es [EMAIL].,payment_charge
+TKT-00136,2026-08-26 09:37:00,web_form,,"URGENTE: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Espero respuesta hoy.",return_refund
+TKT-00265,2026-08-26 09:46:00,web_form,,"Buenos días, La entrega está retrasada y el seguimiento no cambia Espero respuesta hoy.",delivery_delay
+TKT-00503,2026-08-26 11:23:00,chat,,"Hola, El artículo hace un ruido extraño y parece defectuoso",defective_product
+TKT-00599,2026-08-26 11:46:00,chat,ORD-550235,"Buenos días, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Espero respuesta hoy.",delivery_delay
+TKT-00521,2026-08-26 14:02:00,chat,,URGENTE: El descuento no se aplicó y el importe cobrado es incorrecto Espero respuesta hoy.,payment_charge
+TKT-00482,2026-08-26 14:44:00,email,,URGENTE: Mi cuenta está bloqueada desde esta mañana Gracias.,account_access
+TKT-00291,2026-08-26 16:38:00,email,,"Por favor, Cambió mi correo y ahora no puedo recuperar la cuenta",account_access
+TKT-00585,2026-08-26 20:25:00,chat,,"Hola, El artículo hace un ruido extraño y parece defectuoso Esto es frustrante. Llámame al [PHONE].",defective_product
+TKT-00559,2026-08-26 20:53:00,email,,URGENTE: El artículo hace un ruido extraño y parece defectuoso Mi correo es [EMAIL].,defective_product
+TKT-00658,2026-08-26 21:35:00,web_form,ORD-630367,"Por favor, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Esto es frustrante. Llámame al [PHONE].",return_refund
+TKT-00339,2026-08-26 21:57:00,web_form,ORD-331617,"Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].",delivery_delay
+TKT-00593,2026-08-26 23:09:00,chat,ORD-850717,"Buenos días, El paquete [ORDER_ID] lleva varios días sin moverse Esto es frustrante.",delivery_delay
+TKT-00351,2026-08-27 00:32:00,web_form,,URGENTE: La compra aparece pendiente y no sé si repetir el pago ¿Podéis ayudarme?,payment_charge
+TKT-00342,2026-08-27 01:12:00,email,,"Por favor, Cambió mi correo y ahora no puedo recuperar la cuenta Gracias. Mi correo es [EMAIL]. Llámame al [PHONE].",account_access
+TKT-00322,2026-08-27 03:52:00,web_form,ORD-354772,Necesito ayuda: Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Gracias. Mi correo es [EMAIL]. Llámame al [PHONE].,delivery_delay
+TKT-00315,2026-08-27 05:08:00,email,,"Por favor, La pantalla tiene una grieta al abrir la caja ¿Podéis ayudarme? Es la tercera vez que contacto y presentaré una reclamación.",defective_product
+TKT-00890,2026-08-27 05:29:00,chat,ORD-761018,"Hola, Quiero devolver [ORDER_ID] y no encuentro la etiqueta Esto es frustrante.",return_refund
+TKT-00176,2026-08-27 06:03:00,web_form,,"Buenos días, El descuento no se aplicó y el importe cobrado es incorrecto Espero respuesta hoy. Llámame al [PHONE]. Lo necesito antes de mañana por un viaje.",payment_charge
+TKT-00505,2026-08-27 06:23:00,chat,,Necesito ayuda: Hice una devolución pero el reembolso no ha llegado ¿Podéis ayudarme?,return_refund
+TKT-00406,2026-08-27 07:20:00,chat,,La entrega está retrasada y el seguimiento no cambia ¿Podéis ayudarme?,delivery_delay
+TKT-00243,2026-08-27 07:23:00,web_form,,"Por favor, El descuento no se aplicó y el importe cobrado es incorrecto Gracias.",payment_charge
+TKT-00220,2026-08-27 07:53:00,chat,,La compra aparece pendiente y no sé si repetir el pago Esto es frustrante.,payment_charge
+TKT-00099,2026-08-27 08:30:00,web_form,ORD-399005,Quiero devolver [ORDER_ID] y no encuentro la etiqueta Gracias. Mi correo es [EMAIL].,return_refund
+TKT-00195,2026-08-27 12:06:00,email,,URGENTE: Cambió mi correo y ahora no puedo recuperar la cuenta Espero respuesta hoy. Mi correo es [EMAIL].,account_access
+TKT-00028,2026-08-27 19:23:00,web_form,ORD-644052,"Hola, Me habéis cobrado dos veces el pedido [ORDER_ID] ¿Podéis ayudarme?",payment_charge
+TKT-00019,2026-08-27 20:09:00,web_form,,"URGENTE: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Gracias.",return_refund
+TKT-00140,2026-08-27 21:24:00,email,ORD-523348,"Por favor, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece ¿Podéis ayudarme?",delivery_delay
+TKT-00188,2026-08-27 21:29:00,web_form,ORD-662827,Necesito ayuda: Me habéis cobrado dos veces el pedido [ORDER_ID],payment_charge
+TKT-00439,2026-08-27 21:59:00,email,,Necesito ayuda: El pago falla aunque mi tarjeta funciona Esto es frustrante.,payment_charge
+TKT-00723,2026-08-27 23:22:00,web_form,,"Por favor, El artículo hace un ruido extraño y parece defectuoso Espero respuesta hoy.",defective_product
+TKT-00444,2026-08-28 00:05:00,email,,URGENTE: La compra aparece pendiente y no sé si repetir el pago ¿Podéis ayudarme?,payment_charge
+TKT-00448,2026-08-28 00:27:00,chat,,Necesito ayuda: Falta una pieza y no puedo usar el producto Gracias.,defective_product
+TKT-00075,2026-08-28 05:05:00,web_form,,"Hola, Mi cuenta está bloqueada desde esta mañana Espero respuesta hoy.",account_access
+TKT-00464,2026-08-28 05:53:00,web_form,ORD-266390,Necesito ayuda: Quiero devolver [ORDER_ID] y no encuentro la etiqueta Espero respuesta hoy.,return_refund
+TKT-00580,2026-08-28 06:00:00,email,,"Buenos días, La talla no me sirve y quiero tramitar la devolución Mi correo es [EMAIL].",return_refund
+TKT-00084,2026-08-28 06:30:00,email,,"Por favor, Al acceder veo los datos de otro perfil Esto es frustrante. Llámame al [PHONE]. Lo necesito antes de mañana por un viaje.",account_access
+TKT-00866,2026-08-28 07:35:00,email,ORD-769857,"Buenos días, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo",delivery_delay
+TKT-00785,2026-08-28 08:53:00,email,,Necesito ayuda: Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme? Mi correo es [EMAIL].,account_access
+TKT-00531,2026-08-28 09:19:00,chat,ORD-330964,Necesito ayuda: Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece ¿Podéis ayudarme? Mi correo es [EMAIL].,delivery_delay
+TKT-00142,2026-08-28 10:41:00,email,,Necesito ayuda: Mi cuenta está bloqueada desde esta mañana Lo necesito antes de mañana por un viaje.,account_access
+TKT-00309,2026-08-28 11:21:00,email,ORD-122828,Necesito ayuda: El producto de [ORDER_ID] llegó roto y no funciona Gracias.,defective_product
+TKT-00425,2026-08-28 11:43:00,web_form,,"Por favor, Hice una devolución pero el reembolso no ha llegado Esto es frustrante. Llámame al [PHONE].",return_refund
+TKT-00773,2026-08-28 12:10:00,email,,"Hola, La pantalla tiene una grieta al abrir la caja Gracias. Llámame al [PHONE].",defective_product
+TKT-00491,2026-08-28 15:18:00,email,,URGENTE: Hice una devolución pero el reembolso no ha llegado,return_refund
+TKT-00316,2026-08-28 16:27:00,web_form,,URGENTE: No puedo iniciar sesión y el enlace de contraseña ha caducado Gracias.,account_access
+TKT-00324,2026-08-28 16:30:00,web_form,ORD-280166,"Buenos días, Me habéis cobrado dos veces el pedido [ORDER_ID] Esto es frustrante. Llámame al [PHONE].",payment_charge
+TKT-00744,2026-08-28 17:06:00,web_form,,URGENTE: No puedo iniciar sesión y el enlace de contraseña ha caducado ¿Podéis ayudarme? Mi correo es [EMAIL].,account_access
+TKT-00619,2026-08-28 17:18:00,email,,Necesito ayuda: La talla no me sirve y quiero tramitar la devolución Gracias. Mi correo es [EMAIL].,return_refund
+TKT-00147,2026-08-28 18:43:00,web_form,,Necesito ayuda: No recibo el código de verificación para entrar Esto es frustrante. Llámame al [PHONE].,account_access
+TKT-00148,2026-08-28 20:00:00,web_form,,El pago falla aunque mi tarjeta funciona Espero respuesta hoy. Mi correo es [EMAIL].,payment_charge
+TKT-00175,2026-08-28 20:09:00,web_form,,La compra aparece pendiente y no sé si repetir el pago Espero respuesta hoy.,payment_charge
+TKT-00731,2026-08-28 20:50:00,chat,ORD-146265,Necesito ayuda: Quiero devolver [ORDER_ID] y no encuentro la etiqueta ¿Podéis ayudarme? Es la tercera vez que contacto y presentaré una reclamación. Lo necesito antes de mañana por un viaje.,return_refund
+TKT-00776,2026-08-28 22:35:00,email,,URGENTE: La compra aparece pendiente y no sé si repetir el pago,payment_charge
+TKT-00273,2026-08-29 00:02:00,email,,"Por favor, Falta una pieza y no puedo usar el producto ¿Podéis ayudarme? Mi correo es [EMAIL].",defective_product
+TKT-00792,2026-08-29 00:21:00,web_form,,Necesito ayuda: El pago falla aunque mi tarjeta funciona Espero respuesta hoy.,payment_charge
+TKT-00275,2026-08-29 01:46:00,email,,Falta una pieza y no puedo usar el producto Gracias. Es la tercera vez que contacto y presentaré una reclamación.,defective_product
+TKT-00359,2026-08-29 01:46:00,web_form,,"Hola, El descuento no se aplicó y el importe cobrado es incorrecto Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].",payment_charge
+TKT-00230,2026-08-29 03:04:00,email,,Necesito ayuda: La entrega está retrasada y el seguimiento no cambia Gracias.,delivery_delay
+TKT-00354,2026-08-29 04:18:00,web_form,ORD-705162,"Buenos días, Necesito cancelar y recuperar el dinero de [ORDER_ID] Gracias. Mi correo es [EMAIL]. Llámame al [PHONE].",return_refund
+TKT-00297,2026-08-29 04:23:00,email,,"Hola, Falta una pieza y no puedo usar el producto ¿Podéis ayudarme? Mi correo es [EMAIL].",defective_product
+TKT-00116,2026-08-29 06:03:00,email,,"Por favor, No puedo iniciar sesión y el enlace de contraseña ha caducado",account_access
+TKT-00880,2026-08-29 06:26:00,chat,ORD-801425,Necesito ayuda: El producto de [ORDER_ID] llegó roto y no funciona Esto es frustrante.,defective_product
+TKT-00281,2026-08-29 06:41:00,web_form,,"Buenos días, El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? Espero respuesta hoy. Mi correo es [EMAIL].",return_refund
+TKT-00716,2026-08-29 08:39:00,web_form,ORD-214967,"Buenos días, El producto de [ORDER_ID] llegó roto y no funciona Espero respuesta hoy.",defective_product
+TKT-00844,2026-08-29 08:51:00,chat,ORD-719886,"Por favor, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo ¿Podéis ayudarme? Mi correo es [EMAIL].",delivery_delay
+TKT-00317,2026-08-29 11:06:00,web_form,,"Hola, Al acceder veo los datos de otro perfil Espero respuesta hoy. Mi correo es [EMAIL].",account_access
+TKT-00126,2026-08-29 11:24:00,chat,ORD-808409,URGENTE: El producto de [ORDER_ID] llegó roto y no funciona Espero respuesta hoy. Llámame al [PHONE].,defective_product
+TKT-00157,2026-08-29 12:12:00,web_form,ORD-651443,"Hola, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo ¿Podéis ayudarme?",delivery_delay
+TKT-00812,2026-08-29 12:20:00,chat,ORD-888913,"Por favor, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Esto es frustrante. Llámame al [PHONE].",delivery_delay
+TKT-00002,2026-08-29 12:22:00,web_form,ORD-098467,"Hola, El paquete [ORDER_ID] lleva varios días sin moverse Esto es frustrante.",delivery_delay
+TKT-00852,2026-08-29 13:11:00,chat,ORD-331219,"Por favor, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Esto es frustrante.",delivery_delay
+TKT-00846,2026-08-29 13:38:00,web_form,,URGENTE: Cambió mi correo y ahora no puedo recuperar la cuenta ¿Podéis ayudarme? Mi correo es [EMAIL].,account_access
+TKT-00299,2026-08-29 14:17:00,web_form,ORD-335117,El paquete [ORDER_ID] lleva varios días sin moverse Espero respuesta hoy.,delivery_delay
+TKT-00586,2026-08-29 14:40:00,chat,,URGENTE: La compra aparece pendiente y no sé si repetir el pago Espero respuesta hoy. Llámame al [PHONE].,payment_charge
+TKT-00509,2026-08-29 17:02:00,web_form,,"Por favor, Recibí el color equivocado y además está dañado Esto es frustrante. Mi correo es [EMAIL].",defective_product
+TKT-00071,2026-08-29 17:39:00,web_form,,"Por favor, La entrega está retrasada y el seguimiento no cambia ¿Podéis ayudarme? Mi correo es [EMAIL].",delivery_delay
+TKT-00033,2026-08-29 18:01:00,chat,,URGENTE: El descuento no se aplicó y el importe cobrado es incorrecto Gracias. Llámame al [PHONE].,payment_charge
+TKT-00200,2026-08-29 18:20:00,web_form,,La entrega está retrasada y el seguimiento no cambia ¿Podéis ayudarme? Llámame al [PHONE].,delivery_delay
+TKT-00574,2026-08-29 19:37:00,email,,"Buenos días, La entrega está retrasada y el seguimiento no cambia Espero respuesta hoy. Mi correo es [EMAIL].",delivery_delay
+TKT-00123,2026-08-29 19:44:00,web_form,,Necesito ayuda: La entrega está retrasada y el seguimiento no cambia ¿Podéis ayudarme?,delivery_delay
+TKT-00193,2026-08-29 22:19:00,web_form,ORD-193715,"Buenos días, El paquete [ORDER_ID] lleva varios días sin moverse Esto es frustrante.",delivery_delay
+TKT-00618,2026-08-29 22:28:00,web_form,,Necesito ayuda: Falta una pieza y no puedo usar el producto Espero respuesta hoy.,defective_product
+TKT-00379,2026-08-29 22:55:00,email,,"Buenos días, No recibo el código de verificación para entrar Espero respuesta hoy.",account_access
+TKT-00395,2026-08-29 23:05:00,email,,La talla no me sirve y quiero tramitar la devolución Gracias. Es la tercera vez que contacto y presentaré una reclamación.,return_refund
+TKT-00843,2026-08-29 23:09:00,web_form,,La entrega está retrasada y el seguimiento no cambia Gracias. Mi correo es [EMAIL].,delivery_delay
+TKT-00092,2026-08-30 00:09:00,chat,ORD-272571,"Por favor, Necesito saber cuándo llegará [ORDER_ID], voy tarde para un regalo Esto es frustrante.",delivery_delay
+TKT-00072,2026-08-30 00:13:00,chat,ORD-811515,"Por favor, El paquete [ORDER_ID] lleva varios días sin moverse Espero respuesta hoy. Mi correo es [EMAIL].",delivery_delay
+TKT-00122,2026-08-30 00:23:00,email,,"Buenos días, La pantalla tiene una grieta al abrir la caja Mi correo es [EMAIL].",defective_product
+TKT-00679,2026-08-30 00:29:00,chat,ORD-105569,El paquete [ORDER_ID] lleva varios días sin moverse Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].,delivery_delay
+TKT-00671,2026-08-30 03:16:00,chat,,Necesito ayuda: Mi cuenta está bloqueada desde esta mañana Gracias.,account_access
+TKT-00097,2026-08-30 03:31:00,email,ORD-632511,"Hola, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] ¿Podéis ayudarme? Mi correo es [EMAIL].",delivery_delay
+TKT-00267,2026-08-30 03:32:00,email,,Necesito ayuda: Hice una devolución pero el reembolso no ha llegado Esto es frustrante. Mi correo es [EMAIL].,return_refund
+TKT-00819,2026-08-30 03:55:00,email,,"Por favor, La talla no me sirve y quiero tramitar la devolución Gracias. Mi correo es [EMAIL].",return_refund
+TKT-00130,2026-08-30 06:08:00,web_form,,URGENTE: Falta una pieza y no puedo usar el producto,defective_product
+TKT-00648,2026-08-30 06:40:00,web_form,,URGENTE: El artículo hace un ruido extraño y parece defectuoso ¿Podéis ayudarme?,defective_product
+TKT-00013,2026-08-30 06:59:00,web_form,ORD-615508,Necesito ayuda: El producto de [ORDER_ID] llegó roto y no funciona Gracias. Mi correo es [EMAIL].,defective_product
+TKT-00803,2026-08-30 08:10:00,email,,"Necesito ayuda: El paquete fue devuelto al almacén, ¿cuándo recibiré el abono? ¿Podéis ayudarme? Llámame al [PHONE].",return_refund
+TKT-00376,2026-08-30 09:21:00,email,ORD-037929,"Hola, El producto de [ORDER_ID] llegó roto y no funciona Mi correo es [EMAIL].",defective_product
+TKT-00340,2026-08-30 10:11:00,chat,,URGENTE: El pago falla aunque mi tarjeta funciona Esto es frustrante. Mi correo es [EMAIL].,payment_charge
+TKT-00455,2026-08-30 10:21:00,web_form,,Al acceder veo los datos de otro perfil ¿Podéis ayudarme?,account_access
+TKT-00778,2026-08-30 11:49:00,web_form,,"Buenos días, Veo un cargo que no reconozco en mi cuenta Gracias. Llámame al [PHONE].",payment_charge
+TKT-00668,2026-08-30 13:03:00,email,,"Hola, No recibo el código de verificación para entrar ¿Podéis ayudarme?",account_access
+TKT-00597,2026-08-30 13:53:00,chat,,"Buenos días, El pago falla aunque mi tarjeta funciona Gracias. Mi correo es [EMAIL]. Llámame al [PHONE].",payment_charge
+TKT-00815,2026-08-30 16:13:00,email,ORD-514487,Necesito ayuda: El paquete [ORDER_ID] lleva varios días sin moverse Llámame al [PHONE].,delivery_delay
+TKT-00016,2026-08-30 17:06:00,web_form,,Necesito ayuda: El artículo hace un ruido extraño y parece defectuoso Espero respuesta hoy.,defective_product
+TKT-00410,2026-08-30 18:14:00,chat,ORD-115991,URGENTE: Quiero devolver [ORDER_ID] y no encuentro la etiqueta,return_refund
+TKT-00009,2026-08-30 18:48:00,email,,"Buenos días, Falta una pieza y no puedo usar el producto ¿Podéis ayudarme?",defective_product
+TKT-00251,2026-08-30 19:17:00,web_form,ORD-882882,Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Gracias.,delivery_delay
+TKT-00483,2026-08-30 20:35:00,email,,URGENTE: El pago falla aunque mi tarjeta funciona Gracias.,payment_charge
+TKT-00119,2026-08-30 22:07:00,email,,"Hola, Falta una pieza y no puedo usar el producto Gracias. Mi correo es [EMAIL]. Es la tercera vez que contacto y presentaré una reclamación.",defective_product
+TKT-00652,2026-08-30 22:14:00,chat,,Necesito ayuda: No puedo iniciar sesión y el enlace de contraseña ha caducado Mi correo es [EMAIL].,account_access
+TKT-00606,2026-08-31 00:57:00,chat,ORD-455896,URGENTE: Quiero devolver [ORDER_ID] y no encuentro la etiqueta Gracias. Mi correo es [EMAIL].,return_refund
+TKT-00853,2026-08-31 02:23:00,chat,,Necesito ayuda: El pago falla aunque mi tarjeta funciona Mi correo es [EMAIL].,payment_charge
+TKT-00774,2026-08-31 05:53:00,email,,"Por favor, Hice una devolución pero el reembolso no ha llegado Esto es frustrante. Es la tercera vez que contacto y presentaré una reclamación.",return_refund
+TKT-00667,2026-08-31 07:21:00,web_form,,"Buenos días, El pago falla aunque mi tarjeta funciona Espero respuesta hoy.",payment_charge
+TKT-00474,2026-08-31 08:33:00,web_form,,Necesito ayuda: No puedo iniciar sesión y el enlace de contraseña ha caducado Esto es frustrante. Mi correo es [EMAIL]. Llámame al [PHONE].,account_access
+TKT-00264,2026-08-31 08:43:00,web_form,ORD-596678,"Por favor, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Esto es frustrante.",delivery_delay
+TKT-00088,2026-08-31 09:07:00,web_form,ORD-810694,Necesito ayuda: El paquete [ORDER_ID] lleva varios días sin moverse ¿Podéis ayudarme? Mi correo es [EMAIL].,delivery_delay
+TKT-00887,2026-08-31 09:35:00,web_form,,"Por favor, El descuento no se aplicó y el importe cobrado es incorrecto Mi correo es [EMAIL].",payment_charge
+TKT-00684,2026-08-31 11:10:00,chat,,"Hola, No recibo el código de verificación para entrar Gracias. Mi correo es [EMAIL].",account_access
+TKT-00134,2026-08-31 11:11:00,email,ORD-949563,"Por favor, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Mi correo es [EMAIL].",delivery_delay
+TKT-00566,2026-08-31 12:06:00,web_form,,"Por favor, El pago falla aunque mi tarjeta funciona Gracias.",payment_charge
+TKT-00816,2026-08-31 12:13:00,chat,ORD-234466,"Buenos días, Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Gracias.",delivery_delay
+TKT-00057,2026-08-31 13:11:00,email,ORD-827621,Prometisteis entrega rápida pero sigo esperando el pedido [ORDER_ID] Esto es frustrante.,delivery_delay
+TKT-00409,2026-08-31 13:54:00,web_form,ORD-138004,"Buenos días, Me habéis cobrado dos veces el pedido [ORDER_ID] Espero respuesta hoy. Mi correo es [EMAIL].",payment_charge
+TKT-00318,2026-08-31 14:07:00,email,,"Por favor, Veo un cargo que no reconozco en mi cuenta Gracias. Mi correo es [EMAIL]. Llámame al [PHONE].",payment_charge
+TKT-00070,2026-08-31 14:21:00,email,,"Buenos días, El pago falla aunque mi tarjeta funciona Espero respuesta hoy.",payment_charge
+TKT-00620,2026-08-31 15:42:00,chat,,Necesito ayuda: Cambió mi correo y ahora no puedo recuperar la cuenta Gracias. Lo necesito antes de mañana por un viaje.,account_access
+TKT-00143,2026-08-31 15:52:00,email,,URGENTE: Falta una pieza y no puedo usar el producto Esto es frustrante. Llámame al [PHONE]. Es la tercera vez que contacto y presentaré una reclamación.,defective_product
+TKT-00254,2026-08-31 16:23:00,email,ORD-316339,"Por favor, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Esto es frustrante.",delivery_delay
+TKT-00253,2026-08-31 16:28:00,email,,"Hola, Recibí el color equivocado y además está dañado Gracias.",defective_product
+TKT-00098,2026-08-31 16:33:00,email,ORD-590166,Necesito ayuda: Necesito cancelar y recuperar el dinero de [ORDER_ID] Espero respuesta hoy.,return_refund
+TKT-00588,2026-08-31 16:44:00,email,,"Hola, El pago falla aunque mi tarjeta funciona Espero respuesta hoy.",payment_charge
+TKT-00080,2026-08-31 16:49:00,email,ORD-776858,"Por favor, Me habéis cobrado dos veces el pedido [ORDER_ID] Mi correo es [EMAIL].",payment_charge
+TKT-00356,2026-08-31 17:05:00,chat,,Necesito ayuda: Veo un cargo que no reconozco en mi cuenta ¿Podéis ayudarme? Mi correo es [EMAIL].,payment_charge
+TKT-00388,2026-08-31 17:14:00,email,,No recibo el código de verificación para entrar Espero respuesta hoy.,account_access
+TKT-00756,2026-08-31 17:18:00,email,,"Buenos días, La talla no me sirve y quiero tramitar la devolución",return_refund
+TKT-00878,2026-08-31 17:45:00,chat,,"Buenos días, La pantalla tiene una grieta al abrir la caja Esto es frustrante. Mi correo es [EMAIL].",defective_product
+TKT-00378,2026-08-31 18:57:00,email,ORD-043342,"Hola, Mi pedido [ORDER_ID] debía llegar ayer y todavía no aparece Es la tercera vez que contacto y presentaré una reclamación.",delivery_delay
+TKT-00044,2026-08-31 19:27:00,web_form,,Necesito ayuda: Cambió mi correo y ahora no puedo recuperar la cuenta Gracias. Mi correo es [EMAIL].,account_access
+TKT-00192,2026-08-31 22:41:00,email,,No puedo iniciar sesión y el enlace de contraseña ha caducado Espero respuesta hoy.,account_access
+TKT-00199,2026-08-31 23:32:00,email,ORD-535839,URGENTE: El paquete [ORDER_ID] lleva varios días sin moverse Mi correo es [EMAIL]. Llámame al [PHONE].,delivery_delay
